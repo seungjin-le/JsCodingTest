@@ -1,9 +1,10 @@
-import UserReports from './components/userReports'
+import UserReports from "./components/userReports";
+import "./App.scss";
 
 function App() {
   return (
     <div className="App">
-      <UserReports/>
+      <UserReports />
     </div>
   );
 }

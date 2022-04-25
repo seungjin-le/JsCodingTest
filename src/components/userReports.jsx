@@ -2,22 +2,27 @@ import React from "react";
 
 const UserReports = () => {
   function solution(idList, report, k) {
-    let answer = {};
+    let answer = [];
     let reportCount = {};
-    idList.map((v) => (reportCount[`${v}`] = []));
-    idList.map((v) => (reportCount[`${v}`].count = 0));
+    let stopUsers = [];
     let arrSet = [...new Set(report)];
     let textArr = [];
-    let textObj = {};
+    idList.map((v) => (reportCount[`${v}`] = { report: [] }));
+    idList.map((v, i) => ((reportCount[`${v}`].count = 0), (answer[i] = 0)));
     for (let i = 0; i < arrSet.length; i++) {
       textArr.push(arrSet[i].split(" "));
     }
-
-    textArr.map((v) => reportCount[v[0]].push(v[1]));
+    textArr.map((v) => reportCount[v[0]].report.push(v[1]));
     textArr.map((v) => ++reportCount[v[1]].count);
+    console.log(textArr);
+    idList.map((v) => reportCount[v].count >= k && stopUsers.push(v));
     console.log(reportCount);
-    answer = reportCount;
-    return answer;
+    idList.map((v, i) =>
+      stopUsers.map(
+        (value, index) => reportCount[v].report.includes(value) && ++answer[i]
+      )
+    );
+    console.log(answer);
   }
   const idList = ["muzi", "frodo", "apeach", "neo"];
   const report = [
@@ -29,11 +34,13 @@ const UserReports = () => {
   ];
   const k = 2;
   solution(idList, report, k);
-
   return (
     <div>
-      asdㄹㄴㄹ
-      <div>asdasd</div>s
+      <div>["muzi", "frodo", "apeach", "neo"] </div>
+      <div>
+        ["muzi frodo","apeach frodo","frodo neo","muzi neo","apeach muzi"]
+      </div>
+      <div>[2,1,1,0]</div>
     </div>
   );
 };
