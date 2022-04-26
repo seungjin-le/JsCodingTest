@@ -34,15 +34,7 @@ const UserReports = () => {
   ];
   const k = 2;
   solution(idList, report, k);
-  return (
-    <div>
-      <div>["muzi", "frodo", "apeach", "neo"] </div>
-      <div>
-        ["muzi frodo","apeach frodo","frodo neo","muzi neo","apeach muzi"]
-      </div>
-      <div>[2,1,1,0]</div>
-    </div>
-  );
+  return <div></div>;
 };
 
 export default UserReports;

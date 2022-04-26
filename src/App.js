@@ -1,10 +1,12 @@
 import UserReports from "./components/userReports";
 import "./App.scss";
+import FizzBuzz from "./components/fizz";
 
 function App() {
   return (
     <div className="App">
-      <UserReports />
+      {/*<UserReports />*/}
+      {/*<FizzBuzz />*/}
     </div>
   );
 }
