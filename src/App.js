@@ -1,5 +1,6 @@
 import "./App.scss";
 import NumStrEn from "./components/numStrEn";
+import UndefinedNum from "./components/undefinedNum";
 
 function App() {
   return (
@@ -14,7 +15,11 @@ function App() {
       <Insufficient />
       */}
       {/*<SamNumber />*/}
-      <NumStrEn />
+      {/*
+      문자열안 문자를 숫자로 치환
+      <NumStrEn />*/}
+
+      <UndefinedNum />
     </div>
   );
 }
