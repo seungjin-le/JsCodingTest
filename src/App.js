@@ -1,6 +1,7 @@
 import "./App.scss";
 import NumStrEn from "./components/numStrEn";
 import UndefinedNum from "./components/undefinedNum";
+import FailureRate from "./components/failureRate";
 
 function App() {
   return (
@@ -18,8 +19,9 @@ function App() {
       {/*
       문자열안 문자를 숫자로 치환
       <NumStrEn />*/}
-
-      <UndefinedNum />
+      {/*
+      <UndefinedNum />*/}
+      <FailureRate />
     </div>
   );
 }
