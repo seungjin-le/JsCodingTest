@@ -2,6 +2,7 @@ import "./App.scss";
 import NumStrEn from "./components/numStrEn";
 import UndefinedNum from "./components/undefinedNum";
 import FailureRate from "./components/failureRate";
+import String from "./components/string";
 
 function App() {
   return (
@@ -21,7 +22,9 @@ function App() {
       <NumStrEn />*/}
       {/*
       <UndefinedNum />*/}
-      <FailureRate />
+      {/*
+      <FailureRate />*/}
+      <String />
     </div>
   );
 }
