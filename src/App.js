@@ -3,6 +3,7 @@ import NumStrEn from "./components/numStrEn";
 import UndefinedNum from "./components/undefinedNum";
 import FailureRate from "./components/failureRate";
 import String from "./components/string";
+import SecretMap from "./components/secretMap";
 
 function App() {
   return (
@@ -24,7 +25,8 @@ function App() {
       <UndefinedNum />*/}
       {/*
       <FailureRate />*/}
-      <String />
+      {/*<String />*/}
+      <SecretMap />
     </div>
   );
 }
