@@ -4,6 +4,7 @@ import UndefinedNum from "./components/undefinedNum";
 import FailureRate from "./components/failureRate";
 import String from "./components/string";
 import SecretMap from "./components/secretMap";
+import FunctionDevelopment from "./components/functionDevelopment";
 
 function App() {
   return (
@@ -26,7 +27,8 @@ function App() {
       {/*
       <FailureRate />*/}
       {/*<String />*/}
-      <SecretMap />
+      {/*<SecretMap />*/}
+      <FunctionDevelopment />
     </div>
   );
 }
