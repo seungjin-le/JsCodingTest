@@ -28,7 +28,7 @@ function App() {
       <FailureRate />*/}
       {/*<String />*/}
       {/*<SecretMap />*/}
-      <FunctionDevelopment />
+      {/* <FunctionDevelopment /> */}
     </div>
   );
 }

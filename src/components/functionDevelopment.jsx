@@ -9,7 +9,7 @@ const FunctionDevelopment = () => {
     for (let i = 0, j = 0; i < days.length; i++) {
       days[i] <= maxDay
         ? (answer[j] += 1)
-        : (function () {
+        : (() => {
             maxDay = days[i];
             answer[++j] = 1;
           })();
