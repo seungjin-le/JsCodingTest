@@ -3,4 +3,5 @@
 ---
 ## 프로그레머스
 + ### Lv 1
-+ #### [asd](src/components/dayOfTheWeek.jsx) 
+  + ### [2016년](src/components/dayOfTheWeek.jsx) 
+    : JS 내장함수를 잉용해 요일검색
