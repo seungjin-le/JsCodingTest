@@ -33,7 +33,7 @@
     : JS 내장함수를 잉용해 요일검색
   + ### [[Summer/Winter Coding(~2018) ] 예산](src/components/budget.jsx)
     : JS 내장함수를 잉용해 요일검색
-  + ### [카카오 신규 아이디 추천](src/components/idSuggestion.jsx)
+  + ### [배열속 없는 숫자 더하기](src/components/undefinedNum.jsx)
     : JS 내장함수를 잉용해 요일검색
 + ### Lv 2
   + ### [기능개발](src/components/functionDevelopment.jsx)
