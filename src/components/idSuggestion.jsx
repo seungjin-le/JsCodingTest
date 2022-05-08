@@ -1,10 +1,12 @@
 import React from "react";
 
+// 카카오 아이디 추천
+
 const IdSuggestion = () => {
   const solution = (new_id) => {
     let answer = new_id
       .toLowerCase()
-      .replace(/[`~!@#$%^&*()|+\=?;:'",<>\{\}\[\]\\\/ ]/gim, "")
+      .replace(/[`~!@#$%^&*()|+=?;:'",<>{}[\]\\/ ]/gim, "")
       .replace(/\.+/g, ".")
       .replace(/^\.|\.$/g, "")
       .replace(/^$/, "a")

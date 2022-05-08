@@ -1,5 +1,7 @@
 import React from "react";
 
+// 2016년
+
 const DayOfTheWeek = () => {
   const solution = (a, b) => {
     let answer = ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"];

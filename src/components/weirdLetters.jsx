@@ -1,5 +1,7 @@
 import React from "react";
 
+// 이상한 문자 만들기
+
 const WeirdLetters = () => {
   const solution = (s) => {
     let answer = [];

@@ -1,5 +1,7 @@
 import React from "react";
 
+// 실패율
+
 const FailureRate = () => {
   const solution = (N, stages) => {
     let users = stages.length;
@@ -11,7 +13,6 @@ const FailureRate = () => {
     }
     answer.sort((a, b) => b[1] - a[1]);
     answer = answer.map((v, i) => v[0]);
-    console.log(answer);
     return answer;
   };
   solution(5, [2, 1, 2, 6, 2, 4, 3, 3]);

@@ -1,5 +1,7 @@
 import React from "react";
 
+// 문자열 다루기 기본
+
 const String = () => {
   const solution = (s) => {
     let reg = /[a-zA-Z]/g;
@@ -7,7 +9,7 @@ const String = () => {
       return false;
     }
     let q = s.replace(reg, "").length;
-    return q === 4 || q === 6 ? true : false;
+    return q === 4 || q === 6;
   };
   solution("a234");
   solution("1234");

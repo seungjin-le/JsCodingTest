@@ -1,3 +1,5 @@
+// FizzBuzz
+
 const FizzBuzz = () => {
   function fizzBuzz(n) {
     let pizArr = [];

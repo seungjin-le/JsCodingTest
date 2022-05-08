@@ -1,5 +1,7 @@
 import React from "react";
 
+// Lv2 기능개발
+
 const FunctionDevelopment = () => {
   const solution = (progresses, speeds) => {
     let answer = [0];

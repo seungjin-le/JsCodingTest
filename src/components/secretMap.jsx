@@ -1,5 +1,7 @@
 import React from "react";
 
+// 비밀지도
+
 const SecretMap = () => {
   const solution = (n, arr1, arr2) => {
     const stringAdd = (num) => {
