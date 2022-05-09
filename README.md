@@ -35,13 +35,13 @@
     : 설명은 추후에 추가
   + ### [내적](src/components/dotProduct.jsx)
     : 설명은 추후에 추가
-  + ### [추가 예정](src/components/undefinedNum.jsx)
+  + ### [문자열 내의 p와 y의 개수](src/components/numberOfCharacters.jsx)
     : 설명은 추후에 추가
-  + ### [추가 예정](src/components/undefinedNum.jsx)
+  + ### [추가예정]()
     : 설명은 추후에 추가
-  + ### [추가 예정](src/components/undefinedNum.jsx)
+  + ### [추가예정]()
     : 설명은 추후에 추가
-  + ### [추가 예정](src/components/undefinedNum.jsx)
+  + ### [추가예정]()
     : 설명은 추후에 추가
 + ### Lv 2
   + ### [기능개발](src/components/functionDevelopment.jsx)
