@@ -33,7 +33,15 @@
     : 설명은 추후에 추가
   + ### [[Summer/Winter Coding(~2018) ] 예산](src/components/budget.jsx)
     : 설명은 추후에 추가
-  + ### [배열속 없는 숫자 더하기](src/components/undefinedNum.jsx)
+  + ### [내적](src/components/dotProduct.jsx)
+    : 설명은 추후에 추가
+  + ### [추가 예정](src/components/undefinedNum.jsx)
+    : 설명은 추후에 추가
+  + ### [추가 예정](src/components/undefinedNum.jsx)
+    : 설명은 추후에 추가
+  + ### [추가 예정](src/components/undefinedNum.jsx)
+    : 설명은 추후에 추가
+  + ### [추가 예정](src/components/undefinedNum.jsx)
     : 설명은 추후에 추가
 + ### Lv 2
   + ### [기능개발](src/components/functionDevelopment.jsx)
