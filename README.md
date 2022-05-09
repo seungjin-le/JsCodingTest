@@ -39,7 +39,7 @@
     : 설명은 추후에 추가
   + ### [핸드폰 번호 가리기](src/components/hideCellPhoneNum.jsx)
     : 설명은 추후에 추가
-  + ### [추가예정]()
+  + ### [나머지가 1이 되는 숫자 찾기](src/components/findTheRemainder.jsx)
     : 설명은 추후에 추가
   + ### [추가예정]()
     : 설명은 추후에 추가
