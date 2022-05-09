@@ -1,10 +1,10 @@
 import "./App.scss";
-import NumStrEn from "./components/numStrEn";
-import UndefinedNum from "./components/undefinedNum";
-import FailureRate from "./components/failureRate";
-import String from "./components/string";
-import SecretMap from "./components/secretMap";
-import FunctionDevelopment from "./components/functionDevelopment";
+import NumStrEn from "./components/programmers/numStrEn";
+import UndefinedNum from "./components/programmers/undefinedNum";
+import FailureRate from "./components/programmers/failureRate";
+import String from "./components/programmers/string";
+import SecretMap from "./components/programmers/secretMap";
+import FunctionDevelopment from "./components/programmers/functionDevelopment";
 
 function App() {
   return (
