@@ -17,7 +17,7 @@
     : 
   + ### [부족한 금액 계산하기](src/components/programmers/insufficient.jsx)
     : 
-  + ### [숫자 문자열과 영단어](src/components/programmers/numStrEn.jsx)
+  + ### [[ 2021 카카오 채용연계형 인턴십 ] 숫자 문자열과 영단어](src/components/programmers/numStrEn.jsx)
     : 
   + ### [신고 결과 받기](src/components/programmers/userReports.jsx)
     : 
@@ -43,6 +43,8 @@
     : 
   + ### [가운데 글자 가져오기](src/components/programmers/middleLetter.jsx)
     : 
+  + ### [약수의 개수와 덧샘](src/components/programmers/numberAndAdditionOfFactors.jsx)
+    :
 + ### Lv 2
   + ### [기능개발](src/components/programmers/functionDevelopment.jsx)
 
