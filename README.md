@@ -47,10 +47,11 @@
     :
   + ### [수박수박수박수박수박수?](src/components/programmers/stringRepetition.jsx)
     :
+  + ### [가운데 글자 가져오기](src/components/programmers/middleLetter.jsx)
+    :
+  + ### []()
+    :
 + ### Lv 2
   + ### [기능개발](src/components/programmers/functionDevelopment.jsx)
 
----
-## 이것이 코딩테스트다( 서적 ) Js로 리팩토링
-  + ### [가운데 글자 가져오기](src/components/programmers/middleLetter.jsx)
-    : 
+--- 
