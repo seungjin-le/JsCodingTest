@@ -45,6 +45,8 @@
     : 
   + ### [약수의 개수와 덧샘](src/components/programmers/numberAndAdditionOfFactors.jsx)
     :
+  + ### [수박수박수박수박수박수?](src/components/programmers/stringRepetition.jsx)
+    :
 + ### Lv 2
   + ### [기능개발](src/components/programmers/functionDevelopment.jsx)
 
