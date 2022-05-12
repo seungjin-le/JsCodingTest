@@ -49,7 +49,7 @@
     :
   + ### [가운데 글자 가져오기](src/components/programmers/middleLetter.jsx)
     :
-  + ### []()
+  + ### [음양더하기](src/components/programmers/addYinAndYang.jsx)
     :
 + ### Lv 2
   + ### [기능개발](src/components/programmers/functionDevelopment.jsx)
