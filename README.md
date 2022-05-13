@@ -46,13 +46,13 @@
   + ### [약수의 개수와 덧샘](src/components/programmers/numberAndAdditionOfFactors.jsx)
     :
   + ### [수박수박수박수박수박수?](src/components/programmers/stringRepetition.jsx)
-    :
+    : 문자의 반복 횟수인 n을 절반으로 나누고 홀수면 반올림을 한다음 나눈 값 만큼 반복후 나누기전 n이 홀수라면 문자열의 마지막값을 제거  
   + ### [가운데 글자 가져오기](src/components/programmers/middleLetter.jsx)
-    :
+    : 문자열의 길이를 반으로 나눈후 홀수면 반내림을 한다음 분자열의 반내림을 한값이 위치한 값을 리턴, 짝수면 반내림하고-1을 한값과 문자열 길이의 절반값이 위치한 값을 더하고 리턴
   + ### [음양더하기](src/components/programmers/addYinAndYang.jsx)
-    :
+    : map 함수를 이용해 다른 배열의 n번째 값을 확인하고 더하거나 빼기 
   + ### [문자열 내마음대로 정렬](src/components/programmers/sortingStringsMyOwnWay.jsx)
-    :
+    : sort 함수를 사용해 문자의 n번째 값 끼리 비교
   + ### []()
     :
   + ### []()
