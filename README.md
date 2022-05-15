@@ -53,7 +53,7 @@
     : map 함수를 이용해 다른 배열의 n번째 값을 확인하고 더하거나 빼기 
   + ### [문자열 내마음대로 정렬](src/components/programmers/sortingStringsMyOwnWay.jsx)
     : sort 함수를 사용해 문자의 n번째 값 끼리 비교
-  + ### []()
+  + ### [로또의 최고 순위와 최저 순위](src/components/programmers/lotteryRanking.jsx)
     :
   + ### []()
     :
