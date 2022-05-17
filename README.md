@@ -58,9 +58,9 @@
   + ### [x만큼 간격이 있는 n개의 숫자](src/components/programmers/nNumbersSpacedByX.jsx)
     +
   + ### [모의고사](src/components/programmers/mockExam.jsx)
-    :
+    +
   + ### []()
-    :
+    +
 + ### Lv 2
   + ### [기능개발](src/components/programmers/functionDevelopment.jsx)
 
