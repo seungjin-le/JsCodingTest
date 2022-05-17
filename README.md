@@ -57,7 +57,7 @@
     + filter 함수를 이용해 0의 갯수, 틀린 갯수, 맞은 갯수를 찾아 최저 순위와 최고 순위를 계산
   + ### [x만큼 간격이 있는 n개의 숫자](src/components/programmers/nNumbersSpacedByX.jsx)
     +
-  + ### []()
+  + ### [모의고사](src/components/programmers/mockExam.jsx)
     :
   + ### []()
     :
