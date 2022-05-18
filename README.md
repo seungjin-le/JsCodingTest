@@ -34,7 +34,7 @@
   + ### [[Summer/Winter Coding(~2018) ] 예산](src/components/programmers/budget.jsx)
     + 
   + ### [내적](src/components/programmers/dotProduct.jsx)
-    + 
+    + map, reduce 함수를 이용해 배열안에 값들을 계산후 리턴 
   + ### [문자열 내의 p와 y의 개수](src/components/programmers/numberOfCharacters.jsx)
     + 
   + ### [핸드폰 번호 가리기](src/components/programmers/hideCellPhoneNum.jsx)
@@ -56,7 +56,7 @@
   + ### [로또의 최고 순위와 최저 순위](src/components/programmers/lotteryRanking.jsx)
     + filter 함수를 이용해 0의 갯수, 틀린 갯수, 맞은 갯수를 찾아 최저 순위와 최고 순위를 계산
   + ### [x만큼 간격이 있는 n개의 숫자](src/components/programmers/nNumbersSpacedByX.jsx)
-    +
+    + Array, fill, map 함수를 이용해 간단하게 배열을 만들어 리턴
   + ### [모의고사](src/components/programmers/mockExam.jsx)
     +
   + ### []()
