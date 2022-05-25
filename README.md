@@ -59,8 +59,13 @@
   + ### [모의고사](src/components/programmers/mockExam.jsx)
 
   + ### [자릿수 더하기](src/components/programmers/addNumbers.jsx)
+
   + ### [[ 2020 카카오 인턴쉽 ] 키패드 누르기](src/components/programmers/keypadPress.jsx)
+  
   + ### [완주하지 못한 선수](src/components/programmers/athletesWhoDidNotFinish.jsx)
+  
+  + ### [정수 내림차순으로 배치하기](src/components/programmers/placeIntegersInDescendingOrder.jsx)
+  
 
 + ### 코딩 테스트 난이도 Lv 2
   + ### [기능개발](src/components/programmers/functionDevelopment.jsx)
