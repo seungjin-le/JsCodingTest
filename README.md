@@ -66,6 +66,9 @@
   
   + ### [정수 내림차순으로 배치하기](src/components/programmers/placeIntegersInDescendingOrder.jsx)
   
+  + ### [김서방 찾기](src/components/programmers/findKimSeobang.jsx)
+
+
 
 + ### 코딩 테스트 난이도 Lv 2
   + ### [기능개발](src/components/programmers/functionDevelopment.jsx)
