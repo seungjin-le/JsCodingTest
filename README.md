@@ -3,6 +3,7 @@
 ---
 ## 프로그래머스
 + ### 코딩 테스트 난이도 Lv 1
++ ### 코딩 테스트 난이도 Lv 1
   + ### [2016년](src/components/programmers/dayOfTheWeek.jsx)
   + ### [이상한 문자 만들기](src/components/programmers/weirdLetters.jsx)
 
@@ -68,7 +69,7 @@
   
   + ### [김서방 찾기](src/components/programmers/findKimSeobang.jsx)
   
-  + ### []()
+  + ### [약수의 합](src/components/programmers/sumOfFactors.jsx)
 
   + ### []()
 
