@@ -3,8 +3,9 @@
 ---
 ## 프로그래머스
 + ### 코딩 테스트 난이도 Lv 1
-+ ### 코딩 테스트 난이도 Lv 1
+
   + ### [2016년](src/components/programmers/dayOfTheWeek.jsx)
+  
   + ### [이상한 문자 만들기](src/components/programmers/weirdLetters.jsx)
 
   + ### [자연수 뒤집어 배열 만들기](src/components/programmers/numberOfArray.jsx)
@@ -76,7 +77,6 @@
   + ### []()
 
   + ### []()
-
 
 
 + ### 코딩 테스트 난이도 Lv 2
