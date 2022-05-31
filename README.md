@@ -72,7 +72,7 @@
   
   + ### [약수의 합](src/components/programmers/sumOfFactors.jsx)
 
-  + ### []()
+  + ### [제곱근 판별](src/components/programmers/squareRootTest.jsx)
 
   + ### []()
 
