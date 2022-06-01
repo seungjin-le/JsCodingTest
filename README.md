@@ -74,7 +74,7 @@
 
   + ### [제곱근 판별](src/components/programmers/squareRootTest.jsx)
 
-  + ### []()
+  + ### [가장 작은 숫자 제거](src/components/programmers/removeSmallestNumber.jsx)
 
   + ### []()
 
