@@ -76,7 +76,7 @@
 
   + ### [가장 작은 숫자 제거](src/components/programmers/removeSmallestNumber.jsx)
 
-  + ### []()
+  + ### [K 번째 수](src/components/programmers/kthNumber.jsx)
 
   + ### []()
 
