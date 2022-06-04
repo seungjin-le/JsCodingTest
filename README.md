@@ -78,7 +78,7 @@
 
   + ### [K 번째 수](src/components/programmers/kthNumber.jsx)
 
-  + ### []()
+  + ### [[2018 KAKAO BLIND RECRUITMENT] 다트 게임](src/components/programmers/dartGame.jsx)
 
   + ### []()
 
