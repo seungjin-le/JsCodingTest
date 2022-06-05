@@ -80,7 +80,7 @@
 
   + ### [[2018 KAKAO BLIND RECRUITMENT] 다트 게임](src/components/programmers/dartGame.jsx)
 
-  + ### []()
+  + ### [콜라츠 추측](src/components/programmers/colatzGuess.jsx)
 
   + ### []()
 
