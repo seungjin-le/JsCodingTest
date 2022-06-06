@@ -82,6 +82,14 @@
 
   + ### [콜라츠 추측](src/components/programmers/colatzGuess.jsx)
 
+  + ### [3진법 뒤집기](src/components/programmers/ternaryFlip.jsx)
+
+  + ### []()
+
+  + ### []()
+
+  + ### []()
+
   + ### []()
 
 
