@@ -84,7 +84,7 @@
 
   + ### [3진법 뒤집기](src/components/programmers/ternaryFlip.jsx)
 
-  + ### []()
+  + ### [두 정수 사이의 합](src/components/programmers/sumBetweenTwoIntegers.jsx)
 
   + ### []()
 
