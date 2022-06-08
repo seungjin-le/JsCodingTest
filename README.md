@@ -86,7 +86,7 @@
 
   + ### [두 정수 사이의 합](src/components/programmers/sumBetweenTwoIntegers.jsx)
 
-  + ### []()
+  + ### [직사각형 별찍기](src/components/programmers/rectangularStar.jsx)
 
   + ### []()
 
