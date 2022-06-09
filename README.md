@@ -88,7 +88,7 @@
 
   + ### [직사각형 별찍기](src/components/programmers/rectangularStar.jsx)
 
-  + ### []()
+  + ### [문자열 내림차순으로 배치](src/components/programmers/placeStringsInDescendingOrder.jsx)
 
   + ### []()
 
