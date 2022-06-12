@@ -96,7 +96,7 @@
 
   + ### [최소직사각형](src/components/programmers/minimumRectangle.jsx)
 
-  + ### []()
+  + ### [소수 만들기](src/components/programmers/makeADecimal.jsx)
 
   + ### []()
 
