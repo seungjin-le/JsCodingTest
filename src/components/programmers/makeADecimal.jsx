@@ -22,7 +22,7 @@ const MakeADecimal = () => {
     for(let a = 0; a < len-2; a++){
       // 숫자를 선택할 3개중 2번째 자리 앞에 1개가 숫자를 선택할수 있도록 nums 길이의 -1까지만 반복
       for(let b = a+1; b < len-1; b++){
-        // 숫자를 선택할 3개중 3번째 자리 마지막이니 nums 길이의 끝까지 반복
+        // 숫자를 선택할 3개중 3번째 마지막이니 nums 길이의 끝까지 반복
         for(let c = b+1; c < len; c++){
           // decimal 에 nums[a]+nums[b]+nums[c]를 매개변수로 넣어줍니다.
           if(decimal(nums[a]+nums[b]+nums[c])){
