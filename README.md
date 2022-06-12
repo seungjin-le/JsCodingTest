@@ -94,7 +94,7 @@
 
   + ### [시저 암호](src/components/programmers/caesarCipher.jsx)
 
-  + ### []()
+  + ### [최소직사각형](src/components/programmers/minimumRectangle.jsx)
 
   + ### []()
 
