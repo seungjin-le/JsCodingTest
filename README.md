@@ -98,7 +98,7 @@
 
   + ### [소수 만들기](src/components/programmers/makeADecimal.jsx)
 
-  + ### []()
+  + ### [포켓몬](src/components/programmers/pokemon.jsx)
 
   + ### []()
 
