@@ -19,6 +19,14 @@ const Pokemon = () => {
       return numSet.length
     }
   }
+  // 코드 간결화
+  const solution2 = (nums) => {
+    let set = new Set(nums);
+    let numSet = [...set];
+    let ln = nums.length/2;
+    return ln <= numSet.length ? ln : numSet.length
+  }
+
   return (
     <div>
 
