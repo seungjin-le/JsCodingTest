@@ -100,7 +100,7 @@
 
   + ### [포켓몬](src/components/programmers/pokemon.jsx)
 
-  + ### []()
+  + ### [체육복](src/components/programmers/gymSuit.jsx)
 
 
 + ### 코딩 테스트 난이도 Lv 2
