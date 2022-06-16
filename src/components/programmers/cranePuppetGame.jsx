@@ -4,9 +4,9 @@ import React from 'react';
 
 const CranePuppetGame = () => {
   const solution = (board, moves) => {
+    let answer = 0;
     let arr = [];
     let basket = []
-    let answer = 0;
     for(let a = 0; a < board.length; a++){
       arr[a] = board.map((v) => v[a])
     }
@@ -19,17 +19,13 @@ const CranePuppetGame = () => {
         }
       }
     }
-    const fun = (array, num = 0) => {
-      for(let a = 0; a < array.length; a++){
-        if(array[a] === array[a+1]){
-          num +=2
-          array.splice(a,2)
-          a = -1;
-        }
+    for(let a = 0; a < basket.length; a++){
+      if(basket[a] === basket[a+1]){
+        answer +=2
+        basket.splice(a,2)
+        a = -1;
       }
-      return num;
     }
-    answer = fun(basket);
     return answer;
   }
   return (
