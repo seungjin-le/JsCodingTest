@@ -102,6 +102,7 @@
 
   + ### [체육복](src/components/programmers/gymSuit.jsx)
 
+  + ### [크레인 인형뽑기 게임](src/components/programmers/cranePuppetGame.jsx)
 
 + ### 코딩 테스트 난이도 Lv 2
   + ### [기능개발](src/components/programmers/functionDevelopment.jsx)
