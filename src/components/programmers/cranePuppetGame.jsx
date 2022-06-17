@@ -28,6 +28,7 @@ const CranePuppetGame = () => {
     }
     return answer;
   }
+  
   return (
     <div>
 
