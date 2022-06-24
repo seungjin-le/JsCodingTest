@@ -107,7 +107,7 @@
 + ### 코딩 테스트 난이도 Lv 2
   + ### [기능개발](src/components/programmers/levelTwo/functionDevelopment.jsx)
   
-  + ### []()
+  + ### [짝지어 제거하기](src/components/programmers/levelTwo/pairToRemove.jsx)
 
   + ### []()
 
