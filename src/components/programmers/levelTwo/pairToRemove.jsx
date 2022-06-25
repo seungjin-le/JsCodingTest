@@ -4,14 +4,15 @@ import React from 'react';
 
 const PairToRemove = () => {
   const solution = (s) => {
-    let set = s.split('').filter((v,i) => s.indexOf(v) === i);
-    set = set.map((v) => v+v) //.join('/');
-    console.log(set)
-    for(let a = 0; a < set.length; a++){
-      s = s.replace(/`${set[a]}`/g , '');
+    let arr = []
+    for(let a = 0; a < s.length; a++){
+      if( !arr.length || arr[arr.length-1] !== s[a] ){
+        arr.push(s[a]);
+      }else{
+        arr.pop()
+      };
     }
-    console.log(s);
-    return s[0] !== s[1] ? 0 : 1;
+    return arr.length === 0 ? 1 : 0;
   }
   return (
     <div>
