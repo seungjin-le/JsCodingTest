@@ -6,7 +6,7 @@ const PairToRemove = () => {
   const solution = (s) => {
     let arr = []
     for(let a = 0; a < s.length; a++){
-      if( !arr.length || arr[arr.length-1] !== s[a] ){
+      if(arr[arr.length-1] !== s[a] ){
         arr.push(s[a]);
       }else{
         arr.pop()
