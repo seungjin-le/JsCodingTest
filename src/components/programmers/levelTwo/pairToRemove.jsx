@@ -4,13 +4,13 @@ import React from 'react';
 
 const PairToRemove = () => {
   const solution = (s) => {
-    s = s.split('')
-    for(let a = 0; a < s.length; a++){
-      if(s[a] === s[a+1]){
-        s.splice(a,2)
-        a--;
-      }
+    let set = s.split('').filter((v,i) => s.indexOf(v) === i);
+    set = set.map((v) => v+v) //.join('/');
+    console.log(set)
+    for(let a = 0; a < set.length; a++){
+      s = s.replace(/`${set[a]}`/g , '');
     }
+    console.log(s);
     return s[0] !== s[1] ? 0 : 1;
   }
   return (
