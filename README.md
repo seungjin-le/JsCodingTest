@@ -3,6 +3,8 @@
 ---
 + ## 알고리즘 이론
   + ### [시간 복잡도](src/components/algorithm/timeComplexity.md)
+  
+  + ### [공간 복잡도](src/components/algorithm/spaceComplexity.md)
 
 ## 프로그래머스
 + ### 코딩 테스트 난이도 Lv 1
