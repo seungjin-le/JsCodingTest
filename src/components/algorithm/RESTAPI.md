@@ -2,11 +2,11 @@
 
 ---
 
-- REST 란 REoersentational State Tronsfer의 약자이다. 여기에 ~ful 아러는 형용사형 어미륿
+- REST 란 REoersentational State Tronsfer의 약자이다. 여기에 ~ful 아러는 형용사형 어미륿  
 붙여 ~한 API라는 표현이다 즉 REST의 기본 원칙을 성실히 지킨 서비스 디자인을`RESTful`하다고 표현할 수 있다.
 
-- REST는 디자인 패턴이다. 아키텍처다 등 많은 이야기가 존재하는데, REST는 하나의 아키텍처로 볼 수 있다.
-  좀 더 명확한 표현으로는 REST는 `Resource Oriented Architecture`이다 API 설계 중심 자원(Resource)이
+- REST는 디자인 패턴이다. 아키텍처다 등 많은 이야기가 존재하는데, REST는 하나의 아키텍처로 볼 수 있다.  
+  좀 더 명확한 표현으로는 REST는 `Resource Oriented Architecture`이다 API 설계 중심 자원(Resource)이  
   있고 HTTP Method를 통해 자원을 처리하도록 설계하는 것이다.
 
 ## REST 6 가지 원칙
