@@ -10,9 +10,9 @@
 
   + ### [스택, 큐, 트리](src/components/algorithm/queueStackTree.md)
 
-  + ### [빅-오(BIG-O)]()
+  + ### [컴파일러(간단 요약)](src/components/algorithm/compiler.md)
 
-  + ### []()
+  + ### [프로그래밍 언어(고수준, 저수준)](src/components/algorithm/programmingLanguage.md)
 
   + ### []()
 
