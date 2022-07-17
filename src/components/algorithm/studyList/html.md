@@ -61,7 +61,11 @@ HTML5로 인식한다 하지만 IE9 이전 버전의 브라우저 에서는 다�
 <html lang="ko">
 <head>
   <title> 문서의 제목 </title>
+  <!-- 인코딩 방식 -->
   <meta charset="UTF-8">
+  <!-- 뷰포트 설정 -->
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 </head>
   <body>
     문서의 내용을 담는 태그
@@ -94,4 +98,28 @@ HTML5로 인식한다 하지만 IE9 이전 버전의 브라우저 에서는 다�
       - #### 기본 콘텐츠와 관련이 없지만 건접적으로 관련된 추가정보나 `<nav>`태그를 이용한  
         리모콘, 광고 등을 나타낼때 사용한다.
     - #### `<nav>`
-      - #### 다른 페이지 또는 페이지 내의 지정 위ㅣ치로 이동하는 리모콘 등 을 나타낼때 사용한다.
+      - #### 다른 페이지 또는 페이지 내의 지정 위치로 이동하는 리모콘 등 을 나타낼때 사용한다.
+```html
+<body>
+  <header>
+    페이지 전체의 헤더(상단)를 담당
+    <h1>페이지 전체의 제목</h1>
+  </header>
+  <main>
+    페이지의 메인 콘텐츠
+    <section>
+      페이지 단일 부분
+      <header>
+        section 의 상단을 담당
+        <h3>섹션의 제목</h3>
+      </header>
+    </section>
+  </main>
+  <nav>
+    리모콘 등에 사용
+  </nav>
+  <footer>
+    페이지 전체의 푸터(하단)를 담당
+  </footer>
+</body>
+```
