@@ -1,7 +1,5 @@
 # HTML
 
---- 
-
 - HTML 은 `Hyper Text Markup language`의 약자로 마크업 구성에 가장 많이 사용되는 언어이다.
 - HTML의 표준은 과거와 딜리 현제는 살아있는 표준(Living Standard) 이며 웹 개발자, 벤더사, 이해 당사
   등에게 피드백을 받으며 지속 업데이트 되는 표준이다.
