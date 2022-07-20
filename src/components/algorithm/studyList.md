@@ -44,7 +44,3 @@
     - npm script
   - #### Module Rundlers
     - Webpack
-## 11. 
-## 12. 
-## 13. 
-## 14. 
