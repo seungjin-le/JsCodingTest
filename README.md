@@ -1,22 +1,6 @@
 # 코딩테스트
 
 ---
-+ ## 알고리즘 이론
-  + ### [시간 복잡도](src/components/algorithm/timeComplexity.md)
-  
-  + ### [공간 복잡도](src/components/algorithm/spaceComplexity.md)
-
-  + ### [알아둬야할 개발 상식](src/components/algorithm/developerCommonSense.md)
-
-  + ### [스택, 큐, 트리](src/components/algorithm/queueStackTree.md)
-
-  + ### [컴파일러(간단 요약)](src/components/algorithm/compiler.md)
-
-  + ### [프로그래밍 언어(고수준, 저수준)](src/components/algorithm/programmingLanguage.md)
-
-  + ### []()
-
-
 
 ## 프로그래머스
 + ### 코딩 테스트 난이도 Lv 1
