@@ -1,5 +1,7 @@
 import React from "react";
 
+// 성격 유형검사
+
 const PersonalityTypeCheck = () => {
   const solution = (survey, choices) => {
     // 성격 유형을 담을 빈 문자열
