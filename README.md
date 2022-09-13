@@ -105,6 +105,8 @@
 
   + ### [크레인 인형뽑기 게임](src/components/programmers/levelOne/cranePuppetGame.jsx)
 
+  + ### [성격 유형검](src/components/programmers/levelOne/personalityTypeCheck.jsx)
+
 + ### 코딩 테스트 난이도 Lv 2
   + ### [기능개발](src/components/programmers/levelTwo/functionDevelopment.jsx)
   
