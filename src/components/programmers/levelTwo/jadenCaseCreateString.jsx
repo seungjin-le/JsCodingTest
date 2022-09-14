@@ -11,8 +11,3 @@ const JadenCaseCreateString = () => {
   };
   return <div></div>;
 };
-<<<<<<< HEAD
-=======
-
->>>>>>> main
-export default JadenCaseCreateString;
