@@ -19,7 +19,7 @@
     + `스택/큐`
   + ### [부족한 금액 계산하기](src/components/programmers/levelOne/insufficient.jsx)
     + `위클리 챌린지`
-  + ### [[ 2021 카카오 채용연계형 인턴십 ] 숫자 문자열과 영단어](src/components/programmers/levelOne/numStrEn.jsx)
+  + ### [숫자 문자열과 영단어](src/components/programmers/levelOne/numStrEn.jsx)
     + `2021 카카오 채용연계형 인턴십`
   + ### [신고 결과 받기](src/components/programmers/levelOne/userReports.jsx)
     + `2022 KAKAO BLIND RECRUITMENT`
@@ -31,9 +31,9 @@
     + `연습문제`
   + ### [신규 아이디 추천](src/components/programmers/levelOne/idSuggestion.jsx)
     + `2021 KAKAO BLIND RECRUITMENT`
-  + ### [[2018 KAKAO BLIND RECRUITMENT]비밀 지도](src/components/programmers/levelOne/secretMap.jsx)
+  + ### [비밀 지도](src/components/programmers/levelOne/secretMap.jsx)
     + `2018 KAKAO BLIND RECRUITMENT`
-  + ### [[Summer/Winter Coding(~2018) ] 예산](src/components/programmers/levelOne/budget.jsx)
+  + ### [예산](src/components/programmers/levelOne/budget.jsx)
     + `Summer/Winter Coding(~2018)`
   + ### [내적](src/components/programmers/levelOne/dotProduct.jsx)
     + `월간 코드 챌린지 시즌1`
@@ -61,7 +61,7 @@
     + `완전탐색`
   + ### [자릿수 더하기](src/components/programmers/levelOne/addNumbers.jsx)
     + `연습문제`
-  + ### [[ 2020 카카오 인턴쉽 ] 키패드 누르기](src/components/programmers/levelOne/keypadPress.jsx)
+  + ### [키패드 누르기](src/components/programmers/levelOne/keypadPress.jsx)
     + `2020 카카오 인턴십`
   + ### [완주하지 못한 선수](src/components/programmers/levelOne/athletesWhoDidNotFinish.jsx)
     + `해시`
@@ -77,7 +77,7 @@
     + `연습문제`
   + ### [K 번째 수](src/components/programmers/levelOne/kthNumber.jsx)
     + `정렬`
-  + ### [[2018 KAKAO BLIND RECRUITMENT] 다트 게임](src/components/programmers/levelOne/dartGame.jsx)
+  + ### [다트 게임](src/components/programmers/levelOne/dartGame.jsx)
     + `2018 KAKAO BLIND RECRUITMENT`
   + ### [콜라츠 추측](src/components/programmers/levelOne/colatzGuess.jsx)
     + `연습문제`
