@@ -62,7 +62,7 @@
   + ### [모의고사](src/components/programmers/levelOne/mockExam.jsx)
 
   + ### [자릿수 더하기](src/components/programmers/levelOne/addNumbers.jsx)
-
+    + `연습문제`
   + ### [[ 2020 카카오 인턴쉽 ] 키패드 누르기](src/components/programmers/levelOne/keypadPress.jsx)
   
   + ### [완주하지 못한 선수](src/components/programmers/levelOne/athletesWhoDidNotFinish.jsx)
@@ -72,7 +72,7 @@
   + ### [김서방 찾기](src/components/programmers/levelOne/findKimSeobang.jsx)
   
   + ### [약수의 합](src/components/programmers/levelOne/sumOfFactors.jsx)
-
+    + `연습문제`
   + ### [제곱근 판별](src/components/programmers/levelOne/squareRootTest.jsx)
 
   + ### [가장 작은 숫자 제거](src/components/programmers/levelOne/removeSmallestNumber.jsx)
@@ -106,6 +106,11 @@
   + ### [크레인 인형뽑기 게임](src/components/programmers/levelOne/cranePuppetGame.jsx)
 
   + ### [성격 유형검사](src/components/programmers/levelOne/personalityTypeCheck.jsx)
+
+  + ### [짝수와 홀수](src/components/programmers/levelOne/evenAndOdd.jsx) 
+    + `연습문제`
+
+
 
 + ### 코딩 테스트 난이도 Lv 2
   + ### [기능개발](src/components/programmers/levelTwo/functionDevelopment.jsx)
