@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8985b267-4dfa-44e6-811f-579244fd428f" name="변경" comment="변경">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jscodingtest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="$PROJECT_DIR$" pattern="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="28HSpg4PlX7bdAthCTbed2maoZ1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Project.color&quot;: &quot;221c02&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;configurable..is.expanded&quot;: &quot;false&quot;,
+    &quot;configurable.GoLibrariesConfigurable.is.expanded&quot;: &quot;true&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/leeseungjin/Desktop/Dev_Projects/jscodingtest&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/leeseungjin/node_modules/prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/leeseungjin/Desktop/Dev_Projects/jscodingtest/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mariadb&quot;,
+      &quot;mongo&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/components/programmers/levelTwo" />
+      <recent name="$PROJECT_DIR$/src/components/programmers/levelOne" />
+      <recent name="$PROJECT_DIR$/src/components/programmers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="8985b267-4dfa-44e6-811f-579244fd428f" name="변경" comment="" />
+      <created>1650872202411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650872202411</updated>
+      <workItem from="1650872203470" duration="65996000" />
+      <workItem from="1651487512054" duration="7960000" />
+      <workItem from="1651578713205" duration="71000" />
+      <workItem from="1651661564610" duration="115000" />
+      <workItem from="1651747783172" duration="1323000" />
+      <workItem from="1651836626889" duration="1876000" />
+      <workItem from="1651929629166" duration="1551000" />
+      <workItem from="1652002842148" duration="3101000" />
+      <workItem from="1652005974485" duration="801000" />
+      <workItem from="1652008495125" duration="2513000" />
+      <workItem from="1652017368145" duration="253000" />
+      <workItem from="1652091799161" duration="733000" />
+      <workItem from="1652092567157" duration="2445000" />
+      <workItem from="1652182396850" duration="513000" />
+      <workItem from="1652266861075" duration="1288000" />
+      <workItem from="1652351464369" duration="618000" />
+      <workItem from="1652437940120" duration="1703000" />
+      <workItem from="1652441763916" duration="1060000" />
+      <workItem from="1652520789520" duration="88000" />
+      <workItem from="1652605160731" duration="903000" />
+      <workItem from="1652695076678" duration="1054000" />
+      <workItem from="1652785598240" duration="491000" />
+      <workItem from="1652786094034" duration="18000" />
+      <workItem from="1652873306109" duration="335000" />
+      <workItem from="1652949600220" duration="712000" />
+      <workItem from="1653057825608" duration="692000" />
+      <workItem from="1653134027751" duration="1863000" />
+      <workItem from="1653222546933" duration="1042000" />
+      <workItem from="1653299661511" duration="745000" />
+      <workItem from="1653385831097" duration="1405000" />
+      <workItem from="1653475032554" duration="341000" />
+      <workItem from="1653490183103" duration="15000" />
+      <workItem from="1653554791282" duration="489000" />
+      <workItem from="1653662478127" duration="43000" />
+      <workItem from="1653736043397" duration="687000" />
+      <workItem from="1653740728512" duration="2929000" />
+      <workItem from="1653834470935" duration="51000" />
+      <workItem from="1653919979478" duration="38000" />
+      <workItem from="1654000221036" duration="1305000" />
+      <workItem from="1654076332143" duration="222000" />
+      <workItem from="1654180432643" duration="30000" />
+      <workItem from="1654180465942" duration="1000" />
+      <workItem from="1654249671381" duration="1313000" />
+      <workItem from="1654346980785" duration="1406000" />
+      <workItem from="1654436086449" duration="694000" />
+      <workItem from="1654507360250" duration="698000" />
+      <workItem from="1654508237698" duration="1219000" />
+      <workItem from="1654509460055" duration="1056000" />
+      <workItem from="1654597052875" duration="110000" />
+      <workItem from="1654679522715" duration="662000" />
+      <workItem from="1654680197765" duration="464000" />
+      <workItem from="1654765978360" duration="1040000" />
+      <workItem from="1654857846663" duration="824000" />
+      <workItem from="1654942098540" duration="3710000" />
+      <workItem from="1655030165733" duration="1105000" />
+      <workItem from="1655051644491" duration="1320000" />
+      <workItem from="1655116258270" duration="78000" />
+      <workItem from="1655116345831" duration="2579000" />
+      <workItem from="1655129480792" duration="2595000" />
+      <workItem from="1655304304374" duration="103000" />
+      <workItem from="1655304409154" duration="199000" />
+      <workItem from="1655376114247" duration="1753000" />
+      <workItem from="1655474081186" duration="1341000" />
+      <workItem from="1655556881834" duration="318000" />
+      <workItem from="1655557216637" duration="1000" />
+      <workItem from="1655648897154" duration="180000" />
+      <workItem from="1655727634212" duration="267000" />
+      <workItem from="1655810010307" duration="681000" />
+      <workItem from="1655908793575" duration="569000" />
+      <workItem from="1655995232121" duration="32000" />
+      <workItem from="1656079587247" duration="872000" />
+      <workItem from="1656168479297" duration="2250000" />
+      <workItem from="1656252729015" duration="83000" />
+      <workItem from="1656255557354" duration="714000" />
+      <workItem from="1656328026507" duration="373000" />
+      <workItem from="1656331513159" duration="1126000" />
+      <workItem from="1656423767605" duration="55000" />
+      <workItem from="1656513943273" duration="78000" />
+      <workItem from="1656514025287" duration="27000" />
+      <workItem from="1656600004274" duration="50000" />
+      <workItem from="1656682945030" duration="465000" />
+      <workItem from="1656684600011" duration="794000" />
+      <workItem from="1656685449404" duration="326000" />
+      <workItem from="1656767130733" duration="146000" />
+      <workItem from="1656854746577" duration="1911000" />
+      <workItem from="1656864387825" duration="43000" />
+      <workItem from="1656945888365" duration="21000" />
+      <workItem from="1657032309199" duration="108000" />
+      <workItem from="1657118418827" duration="757000" />
+      <workItem from="1657204509097" duration="71000" />
+      <workItem from="1657277234610" duration="65000" />
+      <workItem from="1657369884935" duration="620000" />
+      <workItem from="1657372117850" duration="284000" />
+      <workItem from="1657457105781" duration="472000" />
+      <workItem from="1657532073719" duration="33000" />
+      <workItem from="1657532119292" duration="27000" />
+      <workItem from="1657532159219" duration="103000" />
+      <workItem from="1657627188437" duration="81000" />
+      <workItem from="1657627273718" duration="1000" />
+      <workItem from="1657808789419" duration="3754000" />
+      <workItem from="1657885407438" duration="70000" />
+      <workItem from="1657885493178" duration="81000" />
+      <workItem from="1657886265355" duration="872000" />
+      <workItem from="1657887157740" duration="95000" />
+      <workItem from="1657982422593" duration="6469000" />
+      <workItem from="1658141780460" duration="846000" />
+      <workItem from="1658230163243" duration="11157000" />
+      <workItem from="1658313100278" duration="253000" />
+      <workItem from="1658328243658" duration="58000" />
+      <workItem from="1659106693726" duration="518000" />
+      <workItem from="1659802766846" duration="415000" />
+      <workItem from="1659803210724" duration="283000" />
+      <workItem from="1659803599502" duration="40000" />
+      <workItem from="1659803744580" duration="27000" />
+      <workItem from="1659804084364" duration="12000" />
+      <workItem from="1661082609378" duration="144000" />
+      <workItem from="1661091592497" duration="915000" />
+      <workItem from="1662131239133" duration="302000" />
+      <workItem from="1662131548470" duration="192000" />
+      <workItem from="1662215287575" duration="5000" />
+      <workItem from="1662281044638" duration="1063000" />
+      <workItem from="1662282684679" duration="836000" />
+      <workItem from="1662284909256" duration="83000" />
+      <workItem from="1662296181338" duration="9000" />
+      <workItem from="1663063668870" duration="3505000" />
+      <workItem from="1663076151297" duration="7711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="jscodingtest" />
+    </ignored-roots>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
