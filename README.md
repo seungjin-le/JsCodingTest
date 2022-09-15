@@ -6,110 +6,117 @@
 + ### 코딩 테스트 난이도 Lv 1
 
   + ### [2016년](src/components/programmers/levelOne/dayOfTheWeek.jsx)
-  
+    + `연습문제`
   + ### [이상한 문자 만들기](src/components/programmers/levelOne/weirdLetters.jsx)
-
+    + `연습문제`
   + ### [자연수 뒤집어 배열 만들기](src/components/programmers/levelOne/numberOfArray.jsx)
-
+    + `연습문제`
   + ### [문자열 다루기 기본](src/components/programmers/levelOne/string.jsx)
-
+    + `연습문제`
   + ### [실패율](src/components/programmers/levelOne/failureRate.jsx)
-
+    + `2019 KAKAO BLIND RECRUITMENT`
   + ### [같은 숫자는 싫어](src/components/programmers/levelOne/sameNumber.jsx)
-
+    + `스택/큐`
   + ### [부족한 금액 계산하기](src/components/programmers/levelOne/insufficient.jsx)
-
+    + `위클리 챌린지`
   + ### [[ 2021 카카오 채용연계형 인턴십 ] 숫자 문자열과 영단어](src/components/programmers/levelOne/numStrEn.jsx)
-
+    + `2021 카카오 채용연계형 인턴십`
   + ### [신고 결과 받기](src/components/programmers/levelOne/userReports.jsx)
-
+    + `2022 KAKAO BLIND RECRUITMENT`
   + ### [FizzBuzz](src/components/programmers/levelOne/fizz.jsx)
-
+    + `2022 KAKAO BLIND RECRUITMENT`
   + ### [두 개 뽑아서 더하기](src/components/programmers/levelOne/dayOfTheWeek.jsx)
-
+    + `월간 코드 챌린지 시즌1`
   + ### [나누어 떨어지는 숫자 배열](src/components/programmers/levelOne/arrDivision.jsx)
-
-  + ### [카카오 신규 아이디 추천](src/components/programmers/levelOne/idSuggestion.jsx)
-
-  + ### [비밀 지도](src/components/programmers/levelOne/secretMap.jsx)
-
+    + `연습문제`
+  + ### [신규 아이디 추천](src/components/programmers/levelOne/idSuggestion.jsx)
+    + `2021 KAKAO BLIND RECRUITMENT`
+  + ### [[2018 KAKAO BLIND RECRUITMENT]비밀 지도](src/components/programmers/levelOne/secretMap.jsx)
+    + `2018 KAKAO BLIND RECRUITMENT`
   + ### [[Summer/Winter Coding(~2018) ] 예산](src/components/programmers/levelOne/budget.jsx)
-
+    + `Summer/Winter Coding(~2018)`
   + ### [내적](src/components/programmers/levelOne/dotProduct.jsx)
- 
+    + `월간 코드 챌린지 시즌1`
   + ### [문자열 내의 p와 y의 개수](src/components/programmers/levelOne/numberOfCharacters.jsx)
-
+    + `연습문제`
   + ### [핸드폰 번호 가리기](src/components/programmers/levelOne/hideCellPhoneNum.jsx)
-
+    + `연습문제`
   + ### [나머지가 1이 되는 숫자 찾기](src/components/programmers/levelOne/findTheRemainder.jsx)
-
-  + ### [가운데 글자 가져오기](src/components/programmers/levelOne/middleLetter.jsx)
-
+    + `월간 코드 챌린지 시즌3`
   + ### [약수의 개수와 덧샘](src/components/programmers/levelOne/numberAndAdditionOfFactors.jsx)
-
+    + `월간 코드 챌린지 시즌2`
   + ### [수박수박수박수박수박수?](src/components/programmers/levelOne/stringRepetition.jsx)
-  
+    + `연습문제`
   + ### [가운데 글자 가져오기](src/components/programmers/levelOne/middleLetter.jsx)
-
+    + `연습문제`
   + ### [음양더하기](src/components/programmers/levelOne/addYinAndYang.jsx)
- 
+    + `월간 코드 챌린지 시즌2`
   + ### [문자열 내마음대로 정렬](src/components/programmers/levelOne/sortingStringsMyOwnWay.jsx)
-
+    + `연습문제`
   + ### [로또의 최고 순위와 최저 순위](src/components/programmers/levelOne/lotteryRanking.jsx)
-
+    + `2021 Dev-Matching: 웹 백엔드 개발자(상반기)`
   + ### [x만큼 간격이 있는 n개의 숫자](src/components/programmers/levelOne/nNumbersSpacedByX.jsx)
-
+    + `연습문제`
   + ### [모의고사](src/components/programmers/levelOne/mockExam.jsx)
-
+    + `완전탐색`
   + ### [자릿수 더하기](src/components/programmers/levelOne/addNumbers.jsx)
     + `연습문제`
   + ### [[ 2020 카카오 인턴쉽 ] 키패드 누르기](src/components/programmers/levelOne/keypadPress.jsx)
-  
+    + `2020 카카오 인턴십`
   + ### [완주하지 못한 선수](src/components/programmers/levelOne/athletesWhoDidNotFinish.jsx)
-  
+    + `해시`
   + ### [정수 내림차순으로 배치하기](src/components/programmers/levelOne/placeIntegersInDescendingOrder.jsx)
-  
-  + ### [김서방 찾기](src/components/programmers/levelOne/findKimSeobang.jsx)
-  
+    + `연습문제`
+  + ### [서울에서 김서방 찾기](src/components/programmers/levelOne/findKimSeobang.jsx)
+    + `연습문제`
   + ### [약수의 합](src/components/programmers/levelOne/sumOfFactors.jsx)
     + `연습문제`
   + ### [제곱근 판별](src/components/programmers/levelOne/squareRootTest.jsx)
-
-  + ### [가장 작은 숫자 제거](src/components/programmers/levelOne/removeSmallestNumber.jsx)
-
+    + `연습문제`
+  + ### [제일 작은 수 제거하기](src/components/programmers/levelOne/removeSmallestNumber.jsx)
+    + `연습문제`
   + ### [K 번째 수](src/components/programmers/levelOne/kthNumber.jsx)
-
+    + `정렬`
   + ### [[2018 KAKAO BLIND RECRUITMENT] 다트 게임](src/components/programmers/levelOne/dartGame.jsx)
-
+    + `2018 KAKAO BLIND RECRUITMENT`
   + ### [콜라츠 추측](src/components/programmers/levelOne/colatzGuess.jsx)
-
+    + `연습문제`
   + ### [3진법 뒤집기](src/components/programmers/levelOne/ternaryFlip.jsx)
-
+    + `월간 코드 챌린지 시즌1`
   + ### [두 정수 사이의 합](src/components/programmers/levelOne/sumBetweenTwoIntegers.jsx)
-
+    + `연습문제`
   + ### [직사각형 별찍기](src/components/programmers/levelOne/rectangularStar.jsx)
-
+    + `연습문제`
   + ### [문자열 내림차순으로 배치](src/components/programmers/levelOne/placeStringsInDescendingOrder.jsx)
-
+    + `연습문제`
   + ### [하샤드 수](src/components/programmers/levelOne/numberOfHashes.jsx)
-
+    + `연습문제`
   + ### [시저 암호](src/components/programmers/levelOne/caesarCipher.jsx)
-
+    + `연습문제`
   + ### [최소직사각형](src/components/programmers/levelOne/minimumRectangle.jsx)
-
+    + `완전탐색`
   + ### [소수 만들기](src/components/programmers/levelOne/makeADecimal.jsx)
-
+    + `Summer/Winter Coding(~2018)`
   + ### [포켓몬](src/components/programmers/levelOne/pokemon.jsx)
-
+    + `해시`
   + ### [체육복](src/components/programmers/levelOne/gymSuit.jsx)
-
+    + `탐욕법(Greedy)`
   + ### [크레인 인형뽑기 게임](src/components/programmers/levelOne/cranePuppetGame.jsx)
-
+    + `2019 카카오 개발자 겨울 인턴십`
   + ### [성격 유형검사](src/components/programmers/levelOne/personalityTypeCheck.jsx)
-
+    + `2022 KAKAO TECH INTERNSHIP`
   + ### [짝수와 홀수](src/components/programmers/levelOne/evenAndOdd.jsx) 
     + `연습문제`
-
+  + ### [평균 구하기](src/components/programmers/levelOne/average.jsx)
+    + `연습문제`
+  + ### [문자열을 정수로 바꾸기](src/components/programmers/levelOne/convertStringToInteger.jsx)
+    + `연습문제`
+  + ### [행렬의 덧셈](src/components/programmers/levelOne/additionOfMatrices.jsx)
+    + `연습문제`
+  + ### [최대공약수와 최소공배수](src/components/programmers/levelOne/greatestCommonFactorAndLeastCommonMultiple.jsx)
+    + `연습문제`
+  + ### [소수 찾기](src/components/programmers/levelOne/findDecimals.jsx)
+    + `연습문제`
 
 
 + ### 코딩 테스트 난이도 Lv 2
