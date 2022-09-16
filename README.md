@@ -141,8 +141,8 @@
     + `정렬`
   + ### [숫자의 표현](src/components/programmers/levelTwo/expressedInNumbers.jsx)
     + `연습문제`
-  + ### []()
-
+  + ### [피보나치 수](src/components/programmers/levelTwo/fibonacciSequence.jsx)
+    + `연습문제`
   + ### []()
 
   + ### []()
