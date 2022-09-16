@@ -139,8 +139,8 @@
     + `스택/큐`
   + ### [가장 큰 수](src/components/programmers/levelTwo/biggestNumber.jsx)
     + `정렬`
-  + ### []()
-
+  + ### [숫자의 표현](src/components/programmers/levelTwo/expressedInNumbers.jsx)
+    + `연습문제`
   + ### []()
 
   + ### []()
