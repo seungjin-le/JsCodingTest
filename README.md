@@ -143,7 +143,7 @@
     + `연습문제`
   + ### [피보나치 수](src/components/programmers/levelTwo/fibonacciSequence.jsx)
     + `연습문제`
-  + ### [다음 큰 숫자]()src/components/programmers/levelTwo/nextBigNumber.jsx
+  + ### [다음 큰 숫자](src/components/programmers/levelTwo/nextBigNumber.jsx)
     + `연습문제`
   + ### []()
 ---
