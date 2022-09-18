@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8985b267-4dfa-44e6-811f-579244fd428f" name="변경" comment="변경" />
+    <list default="true" id="8985b267-4dfa-44e6-811f-579244fd428f" name="변경" comment="변경">
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/nextBigNumber.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/nextBigNumber.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
