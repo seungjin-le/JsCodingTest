@@ -39,3 +39,10 @@ const FinishInEnglish = () => {
 };
 
 export default FinishInEnglish;
+answer += obj.arr.reduce((v,i) => v+i);
+if(obj.arr.length === 1) return answer;
+obj.arr.reduce((v,i) => {
+  console.log(v,i,v*i)
+  if(v) return answer += obj.arr[i+1] * v;
+  return v+i;
+});
