@@ -157,8 +157,8 @@
     + `정렬`
   + ### [카펫](src/components/programmers/levelTwo/carpet.jsx)
     + `완전탐색`
-  + ### []()
-    + ``
+  + ### [구명보트](src/components/programmers/levelTwo/lifeboat.jsx)
+    + `그리드`
   + ### []()
     + ``
   + ### []()
