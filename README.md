@@ -159,8 +159,8 @@
     + `완전탐색`
   + ### [구명보트](src/components/programmers/levelTwo/lifeboat.jsx)
     + `탐욕법`
-  + ### []()
-    + ``
+  + ### [조이스틱](src/components/programmers/levelTwo/joystick.jsx)
+    + `탐욕법(Greedy)`
   + ### []()
     + ``
   + ### []()
