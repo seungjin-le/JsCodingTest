@@ -161,8 +161,8 @@
     + `탐욕법`
   + ### [조이스틱](src/components/programmers/levelTwo/joystick.jsx)
     + `탐욕법(Greedy)`
-  + ### []()
-    + ``
+  + ### [N개의 최소공배수](src/components/programmers/levelTwo/leastCommonMultipleOfNCrabs.jsx)
+    + `연습문제`
   + ### []()
     + ``
   + ### []()
