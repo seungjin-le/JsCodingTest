@@ -163,7 +163,7 @@
     + `탐욕법(Greedy)`
   + ### [N개의 최소공배수](src/components/programmers/levelTwo/leastCommonMultipleOfNCrabs.jsx)
     + `연습문제`
-  + ### [n^2 배열 자르기]()
+  + ### [n^2 배열 자르기](src/components/programmers/levelTwo/trimArraysThatAreMultiplesOfN.jsx)
     + `월간 코드 챌린지 시즌3`
   + ### []()
     + ``
