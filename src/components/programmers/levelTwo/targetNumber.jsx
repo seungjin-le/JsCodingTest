@@ -28,3 +28,17 @@ const TargetNumber = () => {
 };
 
 export default TargetNumber;
+
+//var answer = [];
+//     for(let a = 0; a < n * n; a++){
+//         if(n <= a){
+//             if(answer[a % n] >= answer[Math.floor(a / n)]){
+//                 answer[a] = answer[a % n];
+//             }else{
+//                 answer[a] = answer[Math.floor(a / n)]
+//             }
+//
+//         }else{
+//             answer[a] = a + 1;
+//         }
+//     }
