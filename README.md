@@ -165,6 +165,6 @@
     + `연습문제`
   + ### [n^2 배열 자르기](src/components/programmers/levelTwo/trimArraysThatAreMultiplesOfN.jsx)
     + `월간 코드 챌린지 시즌3`
-  + ### []()
-    + ``
+  + ### [괄호 회전하기](src/components/programmers/levelTwo/rotateParentheses.jsx)
+    + `연습문제`
 ---
