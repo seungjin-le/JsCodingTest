@@ -25,9 +25,11 @@ const RotateParentheses = () => {
   };
   // 호이스팅 가능한 문자를 체크해주는 함수
   function check(s) {
-    // 배열 선언
+    // 배열의 요소를 순서대로 담을 배열 선언
     let arr = [];
+    // 배열 s의 길이만큼 반복
     for (let b = 0; b <= s.length; b++) {
+      // s[b]의 요소가 '(', '{', '['일 경우 arr에 Push
       switch (s[b]) {
         case '(':
           arr.push(s[b]);
@@ -38,10 +40,14 @@ const RotateParentheses = () => {
         case '[':
           arr.push(s[b]);
           break;
+        // s[b]의 요소가 ')', '}', ']'일 경우 현제 arr의 마지막 요소가
+        // 해당 괄호의 여는 괄호 인지 확인
         case ')':
+          // 마지막 요소가 해당 괄호의 여는 괄호가 아니라면 0을 리턴
           if (arr[arr.length - 1] !== '(') {
             return 0;
           }
+          // 조건문을 통과하면 마지막 요소 삭제
           arr.pop();
           break;
         case '}':
@@ -58,6 +64,8 @@ const RotateParentheses = () => {
           break;
       }
     }
+    // 올바른 괄호일경우 반복문이 끝나는 시점에 arr의 길이는 0이 되어야 합니다.
+    // arr의 길이가 0일경우 1 아니라면 0을 리턴
     return arr.length === 0 ? 1 : 0;
   }
   return <div></div>;
