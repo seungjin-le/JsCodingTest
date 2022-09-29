@@ -28,3 +28,14 @@ const TargetNumber = () => {
 };
 
 export default TargetNumber;
+//if(!next){
+//             if(arr[0][0] <= life){
+//               life -= arr[0][1]
+//               count++
+//               arr.splice(0,1);
+//             }else if(arr[0][0] > life){
+//               arr.splice(0,1);
+//             }
+//         }else{
+//           arr.push(...arr.splice(0,1));
+//         }
