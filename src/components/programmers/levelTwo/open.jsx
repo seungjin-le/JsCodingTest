@@ -10,6 +10,11 @@ const MyComponent = () => {
     let obj = {};
     // 유저들의 정보와 기록이 담겨있는 배열을 이차원 배열로 변경
     record = record.map((v) => v.split(' '));
+    // record = [
+    //   [(Enter or Leave or Change), (id), (Nick Name)],
+    //   [(Enter or Leave or Change), (id), (Nick Name)]
+    // ]
+
     // 유저들의 정보가 담긴 이차원배열을 순회하면서 obj안에 유저id라는 객체를 만들고
     // 그안에 닉네임을 추가하거나 수정
     record.map(
