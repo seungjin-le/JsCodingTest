@@ -169,8 +169,8 @@
     + `연습문제`
   + ### [피로도](src/components/programmers/levelTwo/fatigue.jsx)
     + `완전탐색`
-  + ### []()
-    + ``
+  + ### [오픈채팅방](src/components/programmers/levelTwo/openChatRoom.jsx)
+    + `2019 KAKAO BLIND RECRUITMENT`
   + ### []()
     + ``
   + ### []()

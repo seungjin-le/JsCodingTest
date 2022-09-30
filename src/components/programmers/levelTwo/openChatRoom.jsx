@@ -2,7 +2,7 @@ import React from 'react';
 
 // 오픈 채팅방
 
-const MyComponent = () => {
+const OpenChatRoom = () => {
   const solution = (record) => {
     // 유저들의 기록을 담고 리턴할 배열
     let answer = [];
@@ -42,4 +42,4 @@ const MyComponent = () => {
   return <div></div>;
 };
 
-export default MyComponent;
+export default OpenChatRoom;
