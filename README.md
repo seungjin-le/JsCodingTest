@@ -173,8 +173,8 @@
     + `2019 KAKAO BLIND RECRUITMENT`
   + ### [땅따먹기](src/components/programmers/levelTwo/eatTheLand.jsx)
     + `Summer/Winter Coding(~2018)`
-  + ### []()
-    + ``
+  + ### [멀리 뛰기](src/components/programmers/levelTwo/longJump.jsx)
+    + `연습문제`
   + ### []()
     + ``
 ---
