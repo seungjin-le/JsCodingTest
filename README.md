@@ -172,7 +172,7 @@
   + ### [오픈채팅방](src/components/programmers/levelTwo/openChatRoom.jsx)
     + `2019 KAKAO BLIND RECRUITMENT`
   + ### [땅따먹기](src/components/programmers/levelTwo/eatTheLand.jsx)
-    + `연습문제`
+    + `Summer/Winter Coding(~2018)`
   + ### []()
     + ``
   + ### []()
