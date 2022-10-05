@@ -2,7 +2,7 @@ import React from 'react';
 
 // 튜플
 
-const Tube = () => {
+const Tuple = () => {
   // 비효율적
   const solution = (s) => {
     // s = "{{4,2,3},{3},{2,3,4,1},{2,3}}"
@@ -52,4 +52,4 @@ const Tube = () => {
   return <div></div>;
 };
 
-export default Tube;
+export default Tuple;
