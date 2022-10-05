@@ -4,18 +4,19 @@ import React from 'react';
 
 const FindTheNumberOfDecimalsInK = () => {
   const solution = (n, k) => {
-    n = n
-      // k 진수로 변환
-      .toString(k)
-      // 0을 기준으로 잘라 문자 배열로 치환
-      .split('0')
-      // split로 문자열을 자를때 '00'일경우 빈배열 생성되고
-      // 문제에서 1은 소수가 아니므로 filter함수의 조건문을
-      // v !== '1'( v는 1이 아니다 ), v(v가 빈 문자열일경우 filter함수가 걸러줍니다.)
-      // 위 2개 조건을 통과하면 재귀함수 primeNumberCheck에 문자열(v)를 parseInt 함수를
-      // 이용해 숫자로 변환후 매개 변수로 넣어줍니다.
-      .filter((v) => v !== '1' && v && primeNumberCheck(parseInt(v))).length;
-    return n;
+    return (
+      n
+        // k 진수로 변환
+        .toString(k)
+        // 0을 기준으로 잘라 문자 배열로 치환
+        .split('0')
+        // split로 문자열을 자를때 '00'일경우 빈배열 생성되고
+        // 문제에서 1은 소수가 아니므로 filter함수의 조건문을
+        // v !== '1'( v는 1이 아니다 ), v(v가 빈 문자열일경우 filter함수가 걸러줍니다.)
+        // 위 2개 조건을 통과하면 재귀함수 primeNumberCheck에 문자열(v)를 parseInt 함수를
+        // 이용해 숫자로 변환후 매개 변수로 넣어줍니다.
+        .filter((v) => v !== '1' && v && primeNumberCheck(parseInt(v))).length
+    );
   };
 
   function primeNumberCheck(n) {
