@@ -177,8 +177,8 @@
     + `연습문제`
   + ### [튜플](src/components/programmers/levelTwo/tube.jsx)
     + `2019 카카오 개발자 겨울 인턴십`
-  + ### []()
-    + ``
+  + ### [k진수에서 소수 개수 구하기](src/components/programmers/levelTwo/findTheNumberOfDecimalsInK.jsx)
+    + `2022 KAKAO BLIND RECRUITMENT`
   + ### []()
     + ``
   + ### []()
