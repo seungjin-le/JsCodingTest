@@ -183,8 +183,8 @@
     + `2018 KAKAO BLIND RECRUITMENT`
   + ### [[3차]압축](src/components/programmers/levelTwo/compression.jsx)
     + `2018 KAKAO BLIND RECRUITMENT`
-  + ### []()
-    + ``
+  + ### [예상 대진표](src/components/programmers/levelTwo/expectTable.jsx)
+    + `2017 팁스타운`
   + ### []()
     + ``
   + ### []()
