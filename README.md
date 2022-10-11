@@ -185,8 +185,8 @@
     + `2018 KAKAO BLIND RECRUITMENT`
   + ### [예상 대진표](src/components/programmers/levelTwo/expectTable.jsx)
     + `2017 팁스타운`
-  + ### []()
-    + ``
+  + ### [다리를 지나는 트럭](src/components/programmers/levelTwo/truckCrossingTheBridge.jsx)
+    + `스택/큐`
   + ### []()
     + ``
   + ### []()
