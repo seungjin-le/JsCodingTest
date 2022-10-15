@@ -7,3 +7,10 @@ const MatrixMultiplication = () => {
 };
 
 export default MatrixMultiplication;
+
+//answer = answer.map((value, index) =>
+//       arr2.map((v,i) =>  {
+//
+//         return value
+//       }
+//     ))
