@@ -117,7 +117,8 @@
     + `연습문제`
   + ### [소수 찾기](src/components/programmers/levelOne/findDecimals.jsx)
     + `연습문제`
-
+  + ### [둘만의 암호](src/components/programmers/levelOne/ACodeForTwo.jsx)
+    + `연습문제`
 ---
 
 + ### 코딩 테스트 난이도 Lv 2
@@ -191,8 +192,6 @@
     + `2018 KAKAO BLIND RECRUITMENT`
   + ### [행렬의 곱셈](src/components/programmers/levelTwo/matrixMultiplication.jsx)
     + `연습문제`
-  + ### [-]()
-    + ``
   + ### [-]()
     + ``
   + ### [-]()
