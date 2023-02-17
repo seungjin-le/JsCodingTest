@@ -8,8 +8,11 @@ const DeckOfCards = () => {
     const equals = (a, b) => JSON.stringify(a) === JSON.stringify(b);
     const sorter = (a) => [...a].sort((a, b) => a - b);
 
-    cards1 = cards1.map((v) => goal.indexOf(v));
-    cards2 = cards2.map((v) => goal.indexOf(v));
+    goal.map((v, i) => {
+      cards1.includes(v)
+        ? (cards1[cards1.indexOf(v)] = i)
+        : (cards2[cards2.indexOf(v)] = i);
+    });
 
     if (!equals(cards1, sorter(cards1)) || !equals(cards2, sorter(cards2))) {
       answer = false;
