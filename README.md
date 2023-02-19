@@ -119,6 +119,16 @@
     + `연습문제`
   + ### [둘만의 암호](src/components/programmers/levelOne/ACodeForTwo.jsx)
     + `연습문제`
+  + ### [크기가 작은 부분문자열](src/components/programmers/levelOne/smallSubstring.jsx)
+    + `연습문제`
+  + ### []()
+    + ``
+  + ### []()
+    + ``
+  + ### []()
+    + ``
+  
+
 ---
 
 + ### 코딩 테스트 난이도 Lv 2
