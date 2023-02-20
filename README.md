@@ -121,8 +121,8 @@
     + `연습문제`
   + ### [크기가 작은 부분문자열](src/components/programmers/levelOne/smallSubstring.jsx)
     + `연습문제`
-  + ### []()
-    + ``
+  + ### [기사단원의 무기](src/components/programmers/levelOne/knightSWeapon.jsx)
+    + `연습문제`
   + ### []()
     + ``
   + ### []()
