@@ -129,8 +129,8 @@
     + `연습문제`
   + ### [콜라 문제](src/components/programmers/levelOne/cokeProblem.jsx)
     + `연습문제`
-  + ### []()
-    + ``
+  + ### [푸드 파이트 대회](src/components/programmers/levelOne/foodFightCompetition.jsx)
+    + `연습문제`
   + ### []()
     + ``
   + ### []()
