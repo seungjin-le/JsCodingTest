@@ -121,14 +121,14 @@
     + `연습문제`
   + ### [크기가 작은 부분문자열](src/components/programmers/levelOne/smallSubstring.jsx)
     + `연습문제`
+  + ### [과일 장수](src/components/programmers/levelOne/fruitSeller.jsx)
+    + `연습문제`
   + ### [기사단원의 무기](src/components/programmers/levelOne/knightSWeapon.jsx)
     + `연습문제`
   + ### [햄버거 만들기](src/components/programmers/levelOne/makingHamburgers.jsx)
     + `연습문제`
   + ### [콜라 문제](src/components/programmers/levelOne/cokeProblem.jsx)
     + `연습문제`
-  + ### []()
-    + ``
   + ### []()
     + ``
   + ### []()
