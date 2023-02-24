@@ -18,8 +18,8 @@ const Babbling = () => {
         v = v.replace(value, index + 1);
       });
       // 치환한 문자열을 숫자로 변경했을때 NaN값 이거나
-      // 1~4의 숫자가 연속되면 멈춤
-      if (isNaN(+v) || v.match(/([0-4])\1{1,}/)) return false;
+      // /([1-4])\1{1,}/) = 1~4의 숫자가 2번 이상 연속되면 멈춤
+      if (isNaN(+v) || v.match(/([1-4])\1{1,}/)) return false;
       // 조건문에 걸리지 않으면 answer 카운트
       answer++;
     });
