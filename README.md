@@ -131,8 +131,8 @@
     + `연습문제`
   + ### [푸드 파이트 대회](src/components/programmers/levelOne/foodFightCompetition.jsx)
     + `연습문제`
-  + ### []()
-    + ``
+  + ### [옹알이 (2)](src/components/programmers/levelOne/babbling.jsx)
+    + `연습문제`
   + ### []()
     + ``
   + ### []()
