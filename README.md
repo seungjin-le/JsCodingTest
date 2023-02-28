@@ -133,8 +133,8 @@
     + `연습문제`
   + ### [옹알이 (2)](src/components/programmers/levelOne/babbling.jsx)
     + `연습문제`
-  + ### []()
-    + ``
+  + ### [문자열 나누기( 미해결 )](src/components/programmers/levelOne/splitString.jsx)
+    + `연습문제`
   + ### []()
     + ``
   + ### []()
