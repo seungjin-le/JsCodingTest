@@ -5,7 +5,7 @@
   "embeddedLanguageFormatting": "auto",
   "endOfLine": "lf",
   "jsxBracketSameLine": false,
-  "printWidth": 80,
+  "printWidth": 130,
   "quoteProps": "as-needed",
   "semi": true,
   "singleQuote": true,
