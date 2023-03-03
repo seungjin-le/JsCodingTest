@@ -62,6 +62,36 @@ const PersonalInformationValidityPeriod = () => {
     });
     return answer;
   };
+
+  // 코드 리팩토링
+  const refactor = (today, terms, privacies) => {
+    var answer = [];
+    let obj = {};
+    terms
+      .map((v) => {
+        return v.split(' ');
+      })
+      .map((v) => (obj[v[0]] = +v[1]));
+    privacies.map((v, i) => {
+      let term = v
+        .split(' ')[0]
+        .split('.')
+        .map((v) => +v);
+      term[2] === 1 ? ((term[2] = 28), term[1]--) : term[2]--;
+      term[1] === 0 && ((term[1] = 12), term[0]--);
+      term[1] += obj[v[v.length - 1]];
+      const date = new Date(...term);
+
+      const formatDate = [
+        date.getMonth() === 0 ? date.getFullYear() - 1 : date.getFullYear(),
+        String(date.getMonth() === 0 ? 12 : date.getMonth()).padStart(2, '0'),
+        String(date.getDate()).padStart(2, '0'),
+      ].join('.');
+      if (formatDate < today) return answer.push(i + 1);
+    });
+    return answer;
+  };
+
   return <div></div>;
 };
 
