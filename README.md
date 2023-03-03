@@ -139,8 +139,8 @@
     + `연습문제`
   + ### [개인정보 수집 유효기간](src/components/programmers/levelOne/personalInformationValidityPeriod.jsx)
     + `2023 KAKAO BLIND RECRUITMENT`
-  + ### []()
-    + ``
+  + ### [바탕화면 정리](src/components/programmers/levelOne/cleanUpYourDesktop.jsx)
+    + `연습문제`
   + ### []()
     + ``
   + ### []()
