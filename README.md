@@ -141,8 +141,8 @@
     + `2023 KAKAO BLIND RECRUITMENT`
   + ### [바탕화면 정리](src/components/programmers/levelOne/cleanUpYourDesktop.jsx)
     + `연습문제`
-  + ### []()
-    + ``
+  + ### [숫자 쩍뀽](src/components/programmers/levelOne/numberPartner.jsx)
+    + `연습문제`
   + ### []()
     + ``
   + ### []()
