@@ -143,8 +143,8 @@
     + `연습문제`
   + ### [숫자 쩍뀽](src/components/programmers/levelOne/numberPartner.jsx)
     + `연습문제`
-  + ### []()
-    + ``
+  + ### [대충 만든 자판](src/components/programmers/levelOne/roughlyKeyboards.jsx)
+    + `연습문제`
   + ### []()
     + ``
   + ### []()
