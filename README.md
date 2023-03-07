@@ -147,8 +147,8 @@
     + `연습문제`
   + ### [명예의 전당 (1)](src/components/programmers/levelOne/theHallOfFame.jsx)
     + `연습문제`
-  + ### []()
-    + ``
+  + ### [카드 뭉치](src/components/programmers/levelOne/cards.jsx)
+    + `연습 문제`
   + ### []()
     + ``
 ---
