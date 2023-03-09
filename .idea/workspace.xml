@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8985b267-4dfa-44e6-811f-579244fd428f" name="변경" comment="변경">
+    <list default="true" id="8985b267-4dfa-44e6-811f-579244fd428f" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/overPainting.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/cards.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/cards.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "/Users/leeseungjin/Desktop/Dev_Projects/jscodingtest/node_modules/prettier",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.JavaScript",
     "settings.editor.splitter.proportion": "0.29090908",
     "ts.external.directory.path": "/Users/leeseungjin/Desktop/Dev_Projects/jscodingtest/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
