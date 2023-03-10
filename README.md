@@ -226,7 +226,7 @@
     + `연습문제`
   + ### [덧칠하기](src/components/programmers/levelTwo/overPainting.jsx)
     + `연습문제`
-  + ### [-]()
+  + ### [미로 탈출]()
     + ``
   + ### [-]()
     + ``
