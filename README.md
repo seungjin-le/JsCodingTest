@@ -228,8 +228,8 @@
     + `연습문제`
   + ### [귤 고르기](src/components/programmers/levelTwo/pickTangerines.jsx)
     + `연습문제`
-  + ### [-]()
-    + ``
+  + ### [점프와 순간 이동](src/components/programmers/levelTwo/jumpAndTeleport.jsx)
+    + `Summer/Winter Coding(~2018)`
   + ### [-]()
     + ``
   + ### [-]()
