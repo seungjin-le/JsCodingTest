@@ -226,8 +226,8 @@
     + `연습문제`
   + ### [덧칠하기](src/components/programmers/levelTwo/overPainting.jsx)
     + `연습문제`
-  + ### [미로 탈출]()
-    + ``
+  + ### [귤 고르기](src/components/programmers/levelTwo/pickTangerines.jsx)
+    + `연습문제`
   + ### [-]()
     + ``
   + ### [-]()
