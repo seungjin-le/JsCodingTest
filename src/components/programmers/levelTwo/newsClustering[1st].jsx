@@ -6,7 +6,7 @@ const NewsClustering_1st = () => {
   const solution = (str1, str2) => {
     // 리턴할때  (교집합 / 합집합)에 곱할 변수
     let answer = 65536;
-    // 문자열에서 숫자, 특수문자를 제거할 정규식 변수
+    // 문자열에서 공백, 숫자, 특수문자를 제거할 정규식 변수
     const regExp = /[0-9\{\}\[\]\/?.,;:|\)*~`!^\-_+<>@\#$%&\\\=\(\'\" ]/g;
     // 문자열을 나눈 배열, 교집합, 합집합을 담을 객체
     let obj = {
@@ -23,17 +23,18 @@ const NewsClustering_1st = () => {
     for (let a = 0; a < len; a++) {
       // 문자열 str1과 str2를 a부터 a + 2까지 잘라서 배열로 치환한다음 순회 ex) [str1 = "FR", str2 = "fr" ]
       [str1.slice(a, a + 2), str2.slice(a, a + 2)].map((v, i) => {
-        // 정규식으로 v에서 숫자, 특수문자를 삭제후 길이가 2라면
+        // 정규식으로 v에서 공백, 숫자, 특수문자를 삭제후 길이가 2라면
         v.replace(regExp, '').length === 2 &&
           // i는 길이가 2인 배열이라서 Object.keys 함수를 이용해 obj.a이나 obj.b에 대문자로 치환해서 추가해줍니다
           // Object.keys(obj)[i]는 i = 0 => obj.a, i = 1 => obj.b를 가리킵니다.
           obj[Object.keys(obj)[i]].push(v.toUpperCase());
       });
     }
+
     // obj.a와 obj.b가 둘다 빈 값이거나 같으면 answer리턴
     if (JSON.stringify(obj.a) === JSON.stringify(obj.b)) return answer;
-    // 반복 횟수를 줄이기 위해 obj.a와 obj.b중 짧은 배열을 순회
 
+    // 반복 횟수를 줄이기 위해 obj.a와 obj.b중 짧은 배열을 순회
     obj.empty.push(
       ...(obj.a.length <= obj.b.length
         ? obj.a.map((x) => {
