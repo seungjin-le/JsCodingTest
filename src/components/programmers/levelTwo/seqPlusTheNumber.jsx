@@ -3,39 +3,27 @@ import React from 'react';
 // 연속 부분 수열 합의 개수
 
 const SeqPlusTheNumber = () => {
-  function solution(elements) {
-    const set = [];
+  const solution = (elements) => {
+    // 수열을 추가할 배열
+    const seqArr = [];
+    // 반복문 실행 중 i + index가 elements의 길이를 넘어서면 elements의
+    // 0번 인덱스부터 시작해야 하기 때문에 elements를 2개 붙여줍니다
+    // ( i + index)의 최대 길이는 elements의 길이 * 2
     const arr = [...elements, ...elements];
+    // 이중 반복문 실행
     elements.map((v, i) => {
       elements.map((valye, index) => {
-        set.push(arr.slice(index, i + index).reduce((acc, v) => acc + v, 0));
+        // 배열 arr의 index부터 index + i까지 배열을 자른 다음
+        // reduce 함수를 통해 자른 배열 안에 값들을 전부 더해서 seqArr에 추가해 줍니다
+        seqArr.push(
+          arr.slice(index, index + i + 1).reduce((acc, v) => acc + v, 0)
+        );
       });
     });
-
-    return new Set(set).size;
-  }
+    // Set 함수로 seqArr의 중복을 제거 후 객체의 길이를 리턴
+    return new Set(seqArr).size;
+  };
   return <div></div>;
 };
 
 export default SeqPlusTheNumber;
-
-//7 [ 7 ] [ 7, 9, 1, 1, 4 ] ,
-// 9 [ 9 ] [ 7, 9, 1, 1, 4 ] ,
-// 1 [ 1 ] [ 7, 9, 1, 1, 4 ] ,
-// 1 [ 1 ] [ 7, 9, 1, 1, 4 ] ,
-// 4 [ 4 ] [ 7, 9, 1, 1, 4 ] ,
-// 16 [ 7, 9 ] [ 7, 9, 1, 1, 4 ] ,
-// 10 [ 9, 1 ] [ 7, 9, 1, 1, 4 ] ,
-// 2 [ 1, 1 ] [ 7, 9, 1, 1, 4 ] ,
-// 5 [ 1, 4 ] [ 7, 9, 1, 1, 4 ] ,
-// 11 [ 4, 7 ] [ 7, 9, 1, 1, 4 ] ,
-// 17 [ 7, 9, 1 ] [ 7, 9, 1, 1, 4 ] ,
-// 11 [ 9, 1, 1 ] [ 7, 9, 1, 1, 4 ] ,
-// 6 [ 1, 1, 4 ] [ 7, 9, 1, 1, 4 ] ,
-// 12 [ 1, 4, 7 ] [ 7, 9, 1, 1, 4 ] ,
-// 20 [ 4, 7, 9 ] [ 7, 9, 1, 1, 4 ] ,
-// 18 [ 7, 9, 1, 1 ] [ 7, 9, 1, 1, 4 ] ,
-// 15 [ 9, 1, 1, 4 ] [ 7, 9, 1, 1, 4 ] ,
-// 13 [ 1, 1, 4, 7 ] [ 7, 9, 1, 1, 4 ] ,
-// 21 [ 1, 4, 7, 9 ] [ 7, 9, 1, 1, 4 ] ,
-// 21 [ 4, 7, 9, 1 ] [ 7, 9, 1, 1, 4 ] ,
