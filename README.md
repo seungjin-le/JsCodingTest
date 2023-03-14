@@ -230,8 +230,8 @@
     + `연습문제`
   + ### [점프와 순간 이동](src/components/programmers/levelTwo/jumpAndTeleport.jsx)
     + `Summer/Winter Coding(~2018)`
-  + ### [-]()
-    + ``
+  + ### [연속 부분 수열 합의 개수](src/components/programmers/levelTwo/seqPlusTheNumber.jsx)
+    + `연습문제`
   + ### [-]()
     + ``
   + ### [-]()
