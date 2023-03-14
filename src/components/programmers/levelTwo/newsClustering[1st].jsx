@@ -33,27 +33,36 @@ const NewsClustering_1st = () => {
     // obj.a와 obj.b가 둘다 빈 값이거나 같으면 answer리턴
     if (JSON.stringify(obj.a) === JSON.stringify(obj.b)) return answer;
     // 반복 횟수를 줄이기 위해 obj.a와 obj.b중 짧은 배열을 순회
-    obj.empty = (
-      obj.a.length <= obj.b.length
+
+    obj.empty.push(
+      ...(obj.a.length <= obj.b.length
         ? obj.a.map((x) => {
-            // obj.a의 요소가 obj.b에 같은 값이 있다면 obj.b에서 x의 첫 번째 인덱스를 찾아 obj.empty 안에 넣어줍니다.
-            // 이렇게 되면 obj.a와 obj.b의 중복 값은 obj.empty에 추가됩니다.
-            if (obj.b.includes(x)) return obj.b.splice(obj.b.indexOf(x), 1);
+            if (obj.b.includes(x))
+              // obj.a의 요소( x )가 obj.b에 같은 값이 있다면 obj.b에서 x의 첫 번째 인덱스를 찾아 obj.empty 안에 넣어줍니다.
+              // 이렇게 되면 obj.a와 obj.b의 중복 값은 obj.empty에 추가됩니다.
+              // splice 함수로 잘라낸 요소는 배열로 반환되기 때문에 join을 해주지 않으면 obj.empty는 이차원 배열이 됩니다.
+              return obj.b.splice(obj.b.indexOf(x), 1).join('');
           })
         : obj.b.map((x) => {
             // obj.a와 obj.b의 위치만 바뀌고 위 코드와 같습니다.
-            if (obj.a.includes(x)) return obj.a.splice(obj.a.indexOf(x), 1);
+            if (obj.a.includes(x))
+              return obj.a.splice(obj.a.indexOf(x), 1).join('');
           })
-    )
-      // 조건문에 적합하지 않으면 obj.empty 안에 false 값이 들어가니 filter 함수로 제거
-      .filter((v) => v);
+      )
+        // 조건문에 적합하지 않으면 obj.empty 안에 false 값이 들어가니 filter 함수로 제거
+        .filter((v) => v)
+    );
+
     // 합집합은 중복을제거한 obj.a와 obj.b를 합치면 됩니다,
-    obj.sum = [...obj.a, ...obj.b];
+    obj.sum.push(...obj.a, ...obj.b);
+
+    // 위 과정을 거치고 나면 obj값은 이렇게 됩니다.
+
     // str1 = "FRANCE", str2 = "french"
     // obj = {
     //   a: [ 'FR', 'RA', 'AN', 'NC', 'CE' ],
     //   b: [ 'RE', 'EN', 'CH' ],
-    //   diff: [ [ 'FR' ], [ 'NC' ] ],
+    //   diff: [ 'FR' , 'NC' ],
     //   sum: [
     //     'FR', 'RA', 'AN',
     //     'NC', 'CE', 'RE',

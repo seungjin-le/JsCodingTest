@@ -232,8 +232,8 @@
     + `Summer/Winter Coding(~2018)`
   + ### [연속 부분 수열 합의 개수](src/components/programmers/levelTwo/seqPlusTheNumber.jsx)
     + `연습문제`
-  + ### [-]()
-    + ``
+  + ### [[1차] 뉴스 클러스터링](src/components/programmers/levelTwo/newsClustering[1st].jsx)
+    + `2018 KAKAO BLIND RECRUITMENT`
   + ### [-]()
     + ``
   + ### [-]()
