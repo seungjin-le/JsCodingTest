@@ -238,8 +238,8 @@
     + `Summer/Winter Coding(~2018)`
   + ### [N 진수 게임(미해결)](src/components/programmers/levelTwo/nNumberGame.jsx)
     + ``
-  + ### [-]()
-    + ``
+  + ### [할인 행사](src/components/programmers/levelTwo/discountEvent.jsx)
+    + `연습문제`
   + ### [-]()
     + ``
   + ### [-]()
