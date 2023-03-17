@@ -236,7 +236,7 @@
     + `2018 KAKAO BLIND RECRUITMENT`
   + ### [스킬 트리](src/components/programmers/levelTwo/skillTree.jsx)
     + `Summer/Winter Coding(~2018)`
-  + ### [-]()
+  + ### [N 진수 게임(미해결)](src/components/programmers/levelTwo/nNumberGame.jsx)
     + ``
   + ### [-]()
     + ``
