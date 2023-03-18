@@ -6,7 +6,7 @@ const DiscountEvent = () => {
   const solution = (want, number, discount) => {
     // 구매해야 하는 과일 개수를 담을 객체
     let obj = {};
-    // 과일을 전부 구매할 수 있는 날을 담을 배열
+    // 과일을 전부 구매할 수 있는 날을 담을 이차원 배열
     let arr = [];
     // 구매할 과일을 담은 배열 want 순회
     // 빈 객체인 obj에 v라는 key 값으로 number의 i 번째 값을 추가
@@ -20,7 +20,7 @@ const DiscountEvent = () => {
       arr.push(discount.slice(i, i + 10));
     });
     // i 일부터 i + 10일까지 판매하는 과일 배열이 담긴 이차원배열 arr을
-    // filter함수로 순화
+    // filter함수로 순회
     arr = arr.filter((v, i) => {
       // 필요한 과일 개수가 담긴 객체 obj를 얕은 복사
       let wants = { ...obj };
