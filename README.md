@@ -240,8 +240,8 @@
     + ``
   + ### [할인 행사](src/components/programmers/levelTwo/discountEvent.jsx)
     + `연습문제`
-  + ### [-]()
-    + ``
+  + ### [주차 요금 계산](src/components/programmers/levelTwo/parkingFee.jsx)
+    + `2022 KAKAO BLIND RECRUITMENT`
   + ### [-]()
     + ``
   + ### [-]()

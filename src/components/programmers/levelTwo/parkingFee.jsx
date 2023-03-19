@@ -1,6 +1,6 @@
 import React from 'react';
 
-// 주차 욕금 계산
+// 주차 요금 계산
 
 const ParkingFee = () => {
   const solution = (fees, records) => {
