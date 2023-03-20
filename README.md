@@ -242,8 +242,8 @@
     + `연습문제`
   + ### [주차 요금 계산](src/components/programmers/levelTwo/parkingFee.jsx)
     + `2022 KAKAO BLIND RECRUITMENT`
-  + ### [-]()
-    + ``
+  + ### [방문 길이](src/components/programmers/levelTwo/visitLength.jsx)
+    + `Summer/Winter Coding(~2018)`
   + ### [-]()
     + ``
 ---
