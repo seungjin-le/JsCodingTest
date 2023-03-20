@@ -244,6 +244,6 @@
     + `2022 KAKAO BLIND RECRUITMENT`
   + ### [방문 길이](src/components/programmers/levelTwo/visitLength.jsx)
     + `Summer/Winter Coding(~2018)`
-  + ### [-]()
-    + ``
----// [ 54, 53, 52, 51, 50 ]
+  + ### [모음 사전](src/components/programmers/levelTwo/vowelDictionary.jsx)
+    + `완전탐색`
+---
