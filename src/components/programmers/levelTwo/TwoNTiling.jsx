@@ -1,3 +1,5 @@
+// 2 X N 타일링
+
 const TwoNTiling= () => {
   const solution = (n) => {
     let arr = [0,1,2]
