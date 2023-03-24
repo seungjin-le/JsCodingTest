@@ -248,8 +248,8 @@
     + `완전탐색`
     + ### [2 X N 타일링](src/components/programmers/levelTwo/TwoNTiling.jsx)
     + `연습문제`
-  + ### []()
-    + ``
+  + ### [큰 수 만들기](src/components/programmers/levelTwo/makingBigNumber.jsx)
+    + `탐욕법(Greedy)`
   + ### []()
     + ``
   + ### []()
