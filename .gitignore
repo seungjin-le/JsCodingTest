@@ -145,3 +145,4 @@ fabric.properties
 /.yarn
 /.idea
 /.gitignore
+/.vscode
