@@ -37,9 +37,6 @@ const MultiplyTheMatrix = () => {
   // console.log([ 1 * 1 + 2 * 2 + 3 * 3 , 1 * 4 + 2 * 5 + 3 * 3] )
   // return : [[14, 32], [32, 77]]
 
-  // 이거 한번 돌려보세요.
-
-  // +) 두 행렬의 크기가 AxB, CxD인 행렬을 곱할려면 B와 C가 같아야 합니다.
   return <div></div>;
 }
 
