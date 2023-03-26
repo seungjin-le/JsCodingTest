@@ -1,5 +1,7 @@
 import React from "react"
 
+// 행렬의 곱셈
+
 const MultiplyTheMatrix = () => {
   const solution = (arr1, arr2) => {
     // 행렬의 곱한 값을 담을 배열
@@ -14,29 +16,34 @@ const MultiplyTheMatrix = () => {
         // 행열의 곱한 값을 더할 변수
         let b = 0
         // arr1의 index번째 요소인 배열을 순회
+        // ex ) v = [ 1, 2, 3 ], i = 0, 1, 2
         value.map((v, i) => {
           // 이차원 배열 arr2의 i번째 배열의 a값을 
           // arr의 index번째 배열의 i번째 값인 v를 
           // 곱한값을 미리 선언했던 인스턴트 변수인 b에 더해줍니다
+          // ex ) arr2[i] = [ 1, 4 ], arr2[i][a] = 1, 4, v = 1, 2, 3
+          //  [ v * arr2[i][a] + v * arr2[i][a + 1] + v * arr2[i][a + 2]]
+          //  [(1 * 1) + (2 * 2) + (3 * 3)]
+          //  = 14
           b += v * arr2[i][a]
         })
         // value.map 함수가 끝나면 빈배열인 answer의 index번째에 
         // map함수에서 곱하고 더한값을 추가
+        // ex ) answer = [ [ 14 ], ]
         answer[index].push(b)
       }
     })
     return answer;
   }
 
+  // 테스트 케이스에서 arr1의 길이가 arr2의 길이보다 길 수 있어서
+  // 이 부분을 주의하지 않으면 테스트 케이스 0점입니다.
 
   // arr1 : [[1, 2, 3], [4, 5, 6]]
 
   // arr2 : [[1, 4], [2, 5], [3, 6]]
 
-  // [ 1 * 1 + 2 * 2 + 3 * 3 , 1 * 4 + 2 * 5 + 3 * 3] = 
-  // console.log([ 1 * 1 + 2 * 2 + 3 * 3 , 1 * 4 + 2 * 5 + 3 * 3] )
   // return : [[14, 32], [32, 77]]
-
   return <div></div>;
 }
 
