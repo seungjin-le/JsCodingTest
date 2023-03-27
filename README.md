@@ -252,8 +252,8 @@
     + `탐욕법(Greedy)`
   + ### [행렬의 곱셈](src/components/programmers/levelTwo/multiplyTheMatrix.jsx)
     + `연습문제`
-  + ### []()
-    + ``
+  + ### [2개 이하로 다른 비트](src/components/programmers/levelTwo/noMoreThanTwoDifferentBits.jsx)
+    + `월간 코드 챌린지 시즌2`
   + ### []()
     + ``
 ---
