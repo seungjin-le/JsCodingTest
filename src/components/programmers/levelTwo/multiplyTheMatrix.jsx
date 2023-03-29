@@ -48,6 +48,3 @@ const MultiplyTheMatrix = () => {
 }
 
 export default MultiplyTheMatrix;
-
-////.padStart(Math.ceil(v.toString(2).length / 4) * 4,"0").split('').reverse()
-// .padStart(Math.ceil(toStr.length / 4) * 4,"0")
