@@ -71,7 +71,7 @@
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "/Users/leeseungjin/Desktop/Dev_Projects/jscodingtest/node_modules/prettier",
-    "settings.editor.selected.configurable": "IntelliLang.Configuration",
+    "settings.editor.selected.configurable": "MTConfigurable",
     "settings.editor.splitter.proportion": "0.29090908",
     "ts.external.directory.path": "/Users/leeseungjin/Desktop/Dev_Projects/jscodingtest/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
