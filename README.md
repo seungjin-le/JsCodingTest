@@ -136,7 +136,7 @@
   | 49  |      `행렬의 곱셈`       |       [Click](src/components/programmers/levelTwo/multiplyTheMatrix.jsx)       |                                [Blog](https://velog.io/@dltmdwls15)                                 |
   | 50  |   `2개 이하로 다른 비트`    |  [Click](src/components/programmers/levelTwo/noMoreThanTwoDifferentBits.jsx)   |                                [Blog](https://velog.io/@dltmdwls15)                                 |
   |51|  `과제 진행하기( 미완성 )`   | [Click](src/components/programmers/levelTwo/taskProgress.jsx)   |[Blog]()|
-  |52|       `Null`        | [Click]()   |[Blog]()|
+  |52|       `광물 캐기`       | [Click](src/components/programmers/levelTwo/miningForMinerals.jsx)   |[Blog](https://velog.io/@dltmdwls15/JS-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-LV-2-%EA%B4%91%EB%AC%BC-%EC%BA%90%EA%B8%B0)|
   |53|       `Null`        | [Click]()   |[Blog]()|
   |54|       `Null`        | [Click]()   |[Blog]()|
   |55|       `Null`        | [Click]()   |[Blog]()|

@@ -4,7 +4,7 @@ import React from 'react';
 
 const MiningForMinerals = () => {
   const solution = (picks, minerals) => {
-    var answer = 0;
+    let answer = 0;
     let len = Math.ceil(minerals.length / 5);
     let maxLen = picks.reduce((a, b) => a + b);
     let arr = [];
