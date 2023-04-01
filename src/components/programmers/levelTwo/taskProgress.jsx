@@ -3,7 +3,7 @@ import React from 'react';
 // 과제 진행하기
 
 const TaskProgress = () => {
-  function solution(plans) {
+  const solution = (plans) => {
     var answer = [];
     let hash = {};
     let obj = {};
@@ -55,7 +55,7 @@ const TaskProgress = () => {
     }
 
     return answer;
-  }
+  };
   return <div></div>;
 };
 

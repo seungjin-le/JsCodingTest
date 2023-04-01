@@ -135,7 +135,7 @@
   | 48  |      `큰 수 만들기`      |        [Click](src/components/programmers/levelTwo/makingBigNumber.jsx)        |                                [Blog](https://velog.io/@dltmdwls15)                                 |
   | 49  |      `행렬의 곱셈`       |       [Click](src/components/programmers/levelTwo/multiplyTheMatrix.jsx)       |                                [Blog](https://velog.io/@dltmdwls15)                                 |
   | 50  |   `2개 이하로 다른 비트`    |  [Click](src/components/programmers/levelTwo/noMoreThanTwoDifferentBits.jsx)   |                                [Blog](https://velog.io/@dltmdwls15)                                 |
-  |51|      `과제 진행하기`      | [Click](src/components/programmers/levelTwo/taskProgress.jsx)   |[Blog]()|
+  |51|  `과제 진행하기( 미완성 )`   | [Click](src/components/programmers/levelTwo/taskProgress.jsx)   |[Blog]()|
   |52|       `Null`        | [Click]()   |[Blog]()|
   |53|       `Null`        | [Click]()   |[Blog]()|
   |54|       `Null`        | [Click]()   |[Blog]()|
