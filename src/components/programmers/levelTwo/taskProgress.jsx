@@ -11,7 +11,7 @@ const TaskProgress = () => {
       const min = date.split(':');
       return +min[0] * 60 + +min[1];
     };
-    plans.map((v, i) => (obj[getMin(v[1])] = [v[0], +v[2]]));
+    plans.map((v) => (obj[getMin(v[1])] = [v[0], +v[2]]));
     console.log(obj, 'obj');
 
     // plans를 순회하며 hash에 {시작시간:[과제시간,과목명]}으로 삽입.
