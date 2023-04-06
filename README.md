@@ -135,10 +135,10 @@
   | 48  |      `큰 수 만들기`      |        [Click](src/components/programmers/levelTwo/makingBigNumber.jsx)        |                                [Blog](https://velog.io/@dltmdwls15)                                 |
   | 49  |      `행렬의 곱셈`       |       [Click](src/components/programmers/levelTwo/multiplyTheMatrix.jsx)       |                                [Blog](https://velog.io/@dltmdwls15)                                 |
   | 50  |   `2개 이하로 다른 비트`    |  [Click](src/components/programmers/levelTwo/noMoreThanTwoDifferentBits.jsx)   |                                [Blog](https://velog.io/@dltmdwls15)                                 |
-  |51|  `과제 진행하기( 미완성 )`   | [Click](src/components/programmers/levelTwo/taskProgress.jsx)   |[Blog]()|
+  |51|  `과제 진행하기( 미해결 )`   | [Click](src/components/programmers/levelTwo/taskProgress.jsx)   |[Blog]()|
   |52|       `광물 캐기`       | [Click](src/components/programmers/levelTwo/miningForMinerals.jsx)   |[Blog](https://velog.io/@dltmdwls15/JS-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-LV-2-%EA%B4%91%EB%AC%BC-%EC%BA%90%EA%B8%B0)|
-  |53|    `리코쳇( 미완성 )`     | [Click](src/components/programmers/levelTwo/ricochetRobot.jsx)   |[Blog]()|
-  |54|       `Null`        | [Click]()   |[Blog]()|
+  |53|    `리코쳇( 미해결 )`     | [Click](src/components/programmers/levelTwo/ricochetRobot.jsx)   |[Blog]()|
+  |54| `이모티콘 할인행사( 미해결 )`  | [Click](src/components/programmers/levelTwo/emojiDiscount.jsx)   |[Blog]()|
   |55|       `Null`        | [Click]()   |[Blog]()|
   |56|       `Null`        | [Click]()   |[Blog]()|
   |57|       `Null`        | [Click]()   |[Blog]()|
