@@ -10,14 +10,14 @@ const EmojiDiscount = () => {
     emoticons.map((value, index) => {
       discount[index] = [];
       for (let a = 1; a < 5; a++) {
-        discount[index].push([a * 10, value - value * ((a * 10) / 100)]);
+        discount[index].push([a * 10, value - (a * value) / 10]);
       }
     });
     arr.push(discount.splice(0, 1)[0].map((v) => [v]));
     discount.map((v1, i1) => {
       arr[i1 + 1] = [];
-      arr[i1].map((v2, i2) => {
-        v1.map((v3, i3) => {
+      arr[i1].map((v2) => {
+        v1.map((v3) => {
           arr[i1 + 1].push([...v2, v3]);
         });
       });
