@@ -140,7 +140,7 @@
   |53|    `리코쳇( 미해결 )`     | [Click](src/components/programmers/levelTwo/ricochetRobot.jsx)   |[Blog]()|
   |54|     `이모티콘 할인행사`     | [Click](src/components/programmers/levelTwo/emojiDiscount.jsx)   |[Blog](https://velog.io/@dltmdwls15/JS-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-LV-2-%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98-%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC)|
   |55|       `연속된 부분 수열의 합`        | [Click](src/components/programmers/levelTwo/sumOfSequences.jsx)   |[Blog]()|
-  |56|       `Null`        | [Click]()   |[Blog]()|
+  |56|       `롤케이크 자르기`        | [Click](src/components/programmers/levelTwo/cuttingTheRollCake.jsx)   |[Blog]()|
   |57|       `Null`        | [Click]()   |[Blog]()|
   |58|       `Null`        | [Click]()   |[Blog]()|
   |59|       `Null`        | [Click]()   |[Blog]()|
