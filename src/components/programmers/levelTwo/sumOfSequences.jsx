@@ -10,6 +10,7 @@ const SumOfSequences = () => {
     let pos = [0, 0];
     sequence.map((v, i) => arr.push(v + arr[i]));
 
+    // ex) sequence = [1, 2, 3, 4, 5] , arr = [0, 1, 3, 6, 10, 15]
     while (pos[0] <= pos[1]) {
       let sum = arr[pos[1]] - arr[pos[0]];
       if (sum === k) {
