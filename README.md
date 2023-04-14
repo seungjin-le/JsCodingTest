@@ -79,7 +79,7 @@
   | 72 |    `명예의 전당 (1)`     |               [Click](src/components/programmers/levelOne/theHallOfFame.jsx)                | [Blog](https://velog.io/@dltmdwls15) |
   | 73 |       `카드 뭉치`       |                   [Click](src/components/programmers/levelOne/cards.jsx)                    | [Blog](https://velog.io/@dltmdwls15) |
   | 74 |       `공원 산책`       |               [Click](src/components/programmers/levelOne/walkInThePark.jsx)                | [Blog](https://velog.io/@dltmdwls15) |
-  | 75 |       `추억 점수`       |               [Click](src/components/programmers/levelOne/memoryScore.jsx)                | [Blog]() |
+  | 75 |       `추억 점수`       |               [Click](src/components/programmers/levelOne/memoryScore.jsx)                | [Blog](https://velog.io/@dltmdwls15/JS-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%B6%94%EC%96%B5-%EC%A0%90%EC%88%98) |
   | 76 |       `Null`        |               [Click]()                | [Blog]() |
   | 77 |       `Null`        |               [Click]()                | [Blog]() |
   | 78 |       `Null`        |               [Click]()                | [Blog]() |
