@@ -144,6 +144,8 @@
   |57|       `호텔 대실`       | [Click](src/components/programmers/levelTwo/hotelRentals.jsx)   |[Blog](https://velog.io/@dltmdwls15/JS-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-LV-2-%ED%98%B8%ED%85%94-%EB%8C%80%EC%8B%A4)|
   |58|       `Null`        | [Click]()   |[Blog]()|
   |59|       `Null`        | [Click]()   |[Blog]()|
+  |59|       `Null`        | [Click]()   |[Blog]()|
+  |59|       `Null`        | [Click]()   |[Blog]()|
 
 ---
 
