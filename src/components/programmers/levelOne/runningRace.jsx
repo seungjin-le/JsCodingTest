@@ -3,7 +3,7 @@ import React from 'react';
 // 달리기 경주
 
 const RunningRace = () => {
-  function solution(players, callings) {
+  const solution = (players, callings) => {
     // players의 이름에 등수를 저장할 map선언
     // ex ) { name => 1}
     const playMap = new Map();
@@ -44,7 +44,7 @@ const RunningRace = () => {
     });
 
     return [...scoreMap].map((v) => v[1]);
-  }
+  };
   return <div></div>;
 };
 

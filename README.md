@@ -80,7 +80,7 @@
   | 73 |       `카드 뭉치`       |                   [Click](src/components/programmers/levelOne/cards.jsx)                    | [Blog](https://velog.io/@dltmdwls15) |
   | 74 |       `공원 산책`       |               [Click](src/components/programmers/levelOne/walkInThePark.jsx)                | [Blog](https://velog.io/@dltmdwls15) |
   | 75 |       `추억 점수`       |               [Click](src/components/programmers/levelOne/memoryScore.jsx)                | [Blog](https://velog.io/@dltmdwls15/JS-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%B6%94%EC%96%B5-%EC%A0%90%EC%88%98) |
-  | 76 |      `달리기 경주`       |               [Click](src/components/programmers/levelOne/runningRace.jsx)                | [Blog]() |
+  | 76 |      `달리기 경주`       |               [Click](src/components/programmers/levelOne/runningRace.jsx)                | [Blog](https://velog.io/@dltmdwls15/JS-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8B%AC%EB%A6%AC%EA%B8%B0-%EA%B2%BD%EC%A3%BC) |
   | 77 |       `Null`        |               [Click]()                | [Blog]() |
   | 78 |       `Null`        |               [Click]()                | [Blog]() |
   | 79 |       `Null`        |               [Click]()                | [Blog]() |
