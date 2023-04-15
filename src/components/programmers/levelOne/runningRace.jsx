@@ -11,7 +11,7 @@ const RunningRace = () => {
       scoreMap.set(i, v);
     });
 
-    callings.map((v, i, arr) => {
+    callings.map((v) => {
       if (playMap.get(v) === 0) return;
       const up = [v, playMap.get(v), playMap.get(v) - 1];
       const down = [scoreMap.get(up[2]), up[2], up[1]];
