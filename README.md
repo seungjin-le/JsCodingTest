@@ -141,17 +141,17 @@
   | 48  |      `큰 수 만들기`      |        [Click](src/components/programmers/levelTwo/makingBigNumber.jsx)        |                                [Blog](https://velog.io/@dltmdwls15)                                 |
   | 49  |      `행렬의 곱셈`       |       [Click](src/components/programmers/levelTwo/multiplyTheMatrix.jsx)       |                                [Blog](https://velog.io/@dltmdwls15)                                 |
   | 50  |   `2개 이하로 다른 비트`    |  [Click](src/components/programmers/levelTwo/noMoreThanTwoDifferentBits.jsx)   |                                [Blog](https://velog.io/@dltmdwls15/JS-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-LV-2-2%EA%B0%9C-%EC%9D%B4%ED%95%98%EB%A1%9C-%EB%8B%A4%EB%A5%B8-%EB%B9%84%ED%8A%B8)                                 |
-  |51|  `과제 진행하기( 미해결 )`   | [Click](src/components/programmers/levelTwo/taskProgress.jsx)   |[Blog]()|
+  |51|  `과제 진행하기( 미해결 )`   | [Click](src/components/programmers/levelTwo/taskProgress.jsx)   |https://velog.io/@dltmdwls15|
   |52|       `광물 캐기`       | [Click](src/components/programmers/levelTwo/miningForMinerals.jsx)   |[Blog](https://velog.io/@dltmdwls15/JS-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-LV-2-%EA%B4%91%EB%AC%BC-%EC%BA%90%EA%B8%B0)|
-  |53|    `리코쳇( 미해결 )`     | [Click](src/components/programmers/levelTwo/ricochetRobot.jsx)   |[Blog]()|
+  |53|    `리코쳇( 미해결 )`     | [Click](src/components/programmers/levelTwo/ricochetRobot.jsx)   |https://velog.io/@dltmdwls15|
   |54|     `이모티콘 할인행사`     | [Click](src/components/programmers/levelTwo/emojiDiscount.jsx)   |[Blog](https://velog.io/@dltmdwls15/JS-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-LV-2-%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98-%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC)|
-  |55|   `연속된 부분 수열의 합`    | [Click](src/components/programmers/levelTwo/sumOfSequences.jsx)   |[Blog]()|
+  |55|   `연속된 부분 수열의 합`    | [Click](src/components/programmers/levelTwo/sumOfSequences.jsx)   |https://velog.io/@dltmdwls15|
   |56|     `롤케이크 자르기`      | [Click](src/components/programmers/levelTwo/cuttingTheRollCake.jsx)   |[Blog](https://velog.io/@dltmdwls15/JS-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-LV-2-%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC-%EC%9E%90%EB%A5%B4%EA%B8%B0)|
   |57|       `호텔 대실`       | [Click](src/components/programmers/levelTwo/hotelRentals.jsx)   |[Blog](https://velog.io/@dltmdwls15/JS-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-LV-2-%ED%98%B8%ED%85%94-%EB%8C%80%EC%8B%A4)|
-  |58|       `Null`        | [Click]()   |[Blog]()|
-  |59|       `Null`        | [Click]()   |[Blog]()|
-  |59|       `Null`        | [Click]()   |[Blog]()|
-  |59|       `Null`        | [Click]()   |[Blog]()|
+  |58|       `Null`        | [Click]()   |https://velog.io/@dltmdwls15|
+  |59|       `Null`        | [Click]()   |https://velog.io/@dltmdwls15|
+  |59|       `Null`        | [Click]()   |https://velog.io/@dltmdwls15|
+  |59|       `Null`        | [Click]()   |https://velog.io/@dltmdwls15|
 
 ---
 
