@@ -6,7 +6,7 @@
 
   | No |        Title        |                                          Rep Link                                           |   Blog   |
   |:--:|:-------------------:|:-------------------------------------------------------------------------------------------:|:--------:|
-  | 1  |       `2016년`       |                [Click](src/components/programmers/levelOne/dayOfTheWeek.jsx)                | [Blog](https://velog.io/@dltmdwls15) |
+  | 1  |       `2016년`       |                [Click](src/components/programmers/levelOne/yearOf2016.jsx)                | [Blog](https://velog.io/@dltmdwls15) |
   | 2  |    `이상한 문자 만들기`     |                [Click](src/components/programmers/levelOne/weirdLetters.jsx)                | [Blog](https://velog.io/@dltmdwls15) |
   | 3  |  `자연수 뒤집어 배열 만들기`   |               [Click](src/components/programmers/levelOne/numberOfArray.jsx)                | [Blog](https://velog.io/@dltmdwls15) |
   | 4  |    `문자열 다루기 기본`     |                   [Click](src/components/programmers/levelOne/string.jsx)                   | [Blog](https://velog.io/@dltmdwls15) |
@@ -16,7 +16,7 @@
   | 8  |    `숫자 문자열과 영단어`    |                  [Click](src/components/programmers/levelOne/numStrEn.jsx)                  | [Blog](https://velog.io/@dltmdwls15) |
   | 9  |     `신고 결과 받기`      |                [Click](src/components/programmers/levelOne/userReports.jsx)                 | [Blog](https://velog.io/@dltmdwls15) |
   | 10 |     `FizzBuzz`      |                    [Click](src/components/programmers/levelOne/fizz.jsx)                    | [Blog](https://velog.io/@dltmdwls15) |
-  | 11 |    `두 개 뽑아서 더하기`    |                [Click](src/components/programmers/levelOne/dayOfTheWeek.jsx)                | [Blog](https://velog.io/@dltmdwls15) |
+  | 11 |    `두 개 뽑아서 더하기`    |                [Click](src/components/programmers/levelOne/yearOf2016.jsx)                | [Blog](https://velog.io/@dltmdwls15) |
   | 12 |  `나누어 떨어지는 숫자 배열`   |                [Click](src/components/programmers/levelOne/arrDivision.jsx)                 | [Blog](https://velog.io/@dltmdwls15) |
   | 13 |     `신규 아이디 추천`     |                [Click](src/components/programmers/levelOne/idSuggestion.jsx)                | [Blog](https://velog.io/@dltmdwls15) |
   | 14 |       `비밀 지도`       |                 [Click](src/components/programmers/levelOne/secretMap.jsx)                  | [Blog](https://velog.io/@dltmdwls15) |
@@ -148,7 +148,7 @@
   |55|   `연속된 부분 수열의 합`    | [Click](src/components/programmers/levelTwo/sumOfSequences.jsx)   |                                                                      https://velog.io/@dltmdwls15                                                                       |
   |56|     `롤케이크 자르기`      | [Click](src/components/programmers/levelTwo/cuttingTheRollCake.jsx)   |       [Blog](https://velog.io/@dltmdwls15/JS-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-LV-2-%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC-%EC%9E%90%EB%A5%B4%EA%B8%B0)       |
   |57|       `호텔 대실`       | [Click](src/components/programmers/levelTwo/hotelRentals.jsx)   |                    [Blog](https://velog.io/@dltmdwls15/JS-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-LV-2-%ED%98%B8%ED%85%94-%EB%8C%80%EC%8B%A4)                     |
-  |58|       `Null`        | [Click]()   |                                                                                 `Null`                                                                                  |
+  |58|       `가장 가까운 같은 글자`        | [Click](/Users/leeseungjin/Desktop/Dev_Projects/jscodingtest/src/components/programmers/levelOne/theNearestSameString.jsx)   |                                                                                 `Null`                                                                                  |
   |59|       `Null`        | [Click]()   |                                                                                 `Null`                                                                                  |
   |59|       `Null`        | [Click]()   |                                                                                 `Null`                                                                                  |
   |59|       `Null`        | [Click]()   |                                                                                 `Null`                                                                                  |
