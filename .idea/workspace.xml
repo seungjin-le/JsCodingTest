@@ -38,6 +38,9 @@
   <component name="NamedScopeManager">
     <scope name="$PROJECT_DIR$" pattern="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
   <component name="ProjectId" id="28HSpg4PlX7bdAthCTbed2maoZ1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -62,7 +65,7 @@
     "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/Users/iseungjin/Desktop/JsCodingTest",
+    "last_opened_file_path": "/Users/iseungjin/Desktop/Projects/JsCodingTest",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -72,7 +75,7 @@
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "/Users/leeseungjin/Desktop/Dev_Projects/jscodingtest/node_modules/prettier",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.언어 디폴트 값",
+    "settings.editor.selected.configurable": "actions.on.save",
     "settings.editor.splitter.proportion": "0.29090908",
     "ts.external.directory.path": "/Users/leeseungjin/Desktop/Dev_Projects/jscodingtest/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
@@ -243,6 +246,7 @@
       <workItem from="1663076151297" duration="7711000" />
       <workItem from="1667561225032" duration="146000" />
       <workItem from="1672858024969" duration="7000" />
+      <workItem from="1696423115737" duration="188000" />
     </task>
     <servers />
   </component>
