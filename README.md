@@ -6,7 +6,7 @@
 
   | No |        Title        |                                          Rep Link                                           |   Blog   |
   |:--:|:-------------------:|:-------------------------------------------------------------------------------------------:|:--------:|
-  | 1  |       `2016년`       |                [Click](src/components/programmers/levelOne/yearOf2016.jsx)                | [Blog](https://velog.io/@dltmdwls15) |
+  | 1  |       `2016년`       |                 [Click](src/components/programmers/levelOne/yearOf2016.jsx)                 | [Blog](https://velog.io/@dltmdwls15) |
   | 2  |    `이상한 문자 만들기`     |                [Click](src/components/programmers/levelOne/weirdLetters.jsx)                | [Blog](https://velog.io/@dltmdwls15) |
   | 3  |  `자연수 뒤집어 배열 만들기`   |               [Click](src/components/programmers/levelOne/numberOfArray.jsx)                | [Blog](https://velog.io/@dltmdwls15) |
   | 4  |    `문자열 다루기 기본`     |                   [Click](src/components/programmers/levelOne/string.jsx)                   | [Blog](https://velog.io/@dltmdwls15) |
@@ -16,7 +16,7 @@
   | 8  |    `숫자 문자열과 영단어`    |                  [Click](src/components/programmers/levelOne/numStrEn.jsx)                  | [Blog](https://velog.io/@dltmdwls15) |
   | 9  |     `신고 결과 받기`      |                [Click](src/components/programmers/levelOne/userReports.jsx)                 | [Blog](https://velog.io/@dltmdwls15) |
   | 10 |     `FizzBuzz`      |                    [Click](src/components/programmers/levelOne/fizz.jsx)                    | [Blog](https://velog.io/@dltmdwls15) |
-  | 11 |    `두 개 뽑아서 더하기`    |                [Click](src/components/programmers/levelOne/yearOf2016.jsx)                | [Blog](https://velog.io/@dltmdwls15) |
+  | 11 |    `두 개 뽑아서 더하기`    |                 [Click](src/components/programmers/levelOne/yearOf2016.jsx)                 | [Blog](https://velog.io/@dltmdwls15) |
   | 12 |  `나누어 떨어지는 숫자 배열`   |                [Click](src/components/programmers/levelOne/arrDivision.jsx)                 | [Blog](https://velog.io/@dltmdwls15) |
   | 13 |     `신규 아이디 추천`     |                [Click](src/components/programmers/levelOne/idSuggestion.jsx)                | [Blog](https://velog.io/@dltmdwls15) |
   | 14 |       `비밀 지도`       |                 [Click](src/components/programmers/levelOne/secretMap.jsx)                  | [Blog](https://velog.io/@dltmdwls15) |
@@ -79,11 +79,11 @@
   | 72 |    `명예의 전당 (1)`     |               [Click](src/components/programmers/levelOne/theHallOfFame.jsx)                | [Blog](https://velog.io/@dltmdwls15) |
   | 73 |       `카드 뭉치`       |                   [Click](src/components/programmers/levelOne/cards.jsx)                    | [Blog](https://velog.io/@dltmdwls15) |
   | 74 |       `공원 산책`       |               [Click](src/components/programmers/levelOne/walkInThePark.jsx)                | [Blog](https://velog.io/@dltmdwls15) |
-  | 75 |       `추억 점수`       |               [Click](src/components/programmers/levelOne/memoryScore.jsx)                | [Blog](https://velog.io/@dltmdwls15/JS-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%B6%94%EC%96%B5-%EC%A0%90%EC%88%98) |
-  | 76 |      `달리기 경주`       |               [Click](src/components/programmers/levelOne/runningRace.jsx)                | [Blog](https://velog.io/@dltmdwls15/JS-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8B%AC%EB%A6%AC%EA%B8%B0-%EA%B2%BD%EC%A3%BC) |
-  | 77 |       `Null`        |               [Click]()                | [Blog]() |
-  | 78 |       `Null`        |               [Click]()                | [Blog]() |
-  | 79 |       `Null`        |               [Click]()                | [Blog]() |
+  | 75 |       `추억 점수`       |                [Click](src/components/programmers/levelOne/memoryScore.jsx)                 | [Blog](https://velog.io/@dltmdwls15/JS-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%B6%94%EC%96%B5-%EC%A0%90%EC%88%98) |
+  | 76 |      `달리기 경주`       |                [Click](src/components/programmers/levelOne/runningRace.jsx)                 | [Blog](https://velog.io/@dltmdwls15/JS-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8B%AC%EB%A6%AC%EA%B8%B0-%EA%B2%BD%EC%A3%BC) |
+  | 77 |       `붕개감기`        |                                  [Click](src/components/programmers/levelOne/Bandage.jsx)                                   | [Blog](https://seungjin-le.github.io/posts/bandage/) |
+  | 78 |       `Null`        |                                          [Click]()                                          | [Blog]() |
+  | 79 |       `Null`        |                                          [Click]()                                          | [Blog]() |
 
 
 -----------
