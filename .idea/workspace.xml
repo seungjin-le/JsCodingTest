@@ -5,8 +5,162 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8985b267-4dfa-44e6-811f-579244fd428f" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/Bandage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jscodingtest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jscodingtest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.prettierrc" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/ACodeForTwo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/ACodeForTwo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/addNumbers.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/addNumbers.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/addYinAndYang.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/addYinAndYang.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/additionOfMatrices.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/additionOfMatrices.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/arrDivision.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/arrDivision.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/athletesWhoDidNotFinish.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/athletesWhoDidNotFinish.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/average.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/average.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/babbling.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/babbling.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/budget.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/budget.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/caesarCipher.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/caesarCipher.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/cards.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/cards.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/cleanUpYourDesktop.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/cleanUpYourDesktop.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/cokeProblem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/cokeProblem.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/colatzGuess.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/colatzGuess.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/convertStringToInteger.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/convertStringToInteger.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/cranePuppetGame.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/cranePuppetGame.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/dartGame.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/dartGame.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/deckOfCards.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/deckOfCards.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/dotProduct.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/dotProduct.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/evenAndOdd.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/evenAndOdd.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/failureRate.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/failureRate.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/findDecimals.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/findDecimals.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/findKimSeobang.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/findKimSeobang.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/findTheRemainder.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/findTheRemainder.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/fizz.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/fizz.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/foodFightCompetition.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/foodFightCompetition.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/fruitSeller.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/fruitSeller.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/greatestCommonFactorAndLeastCommonMultiple.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/greatestCommonFactorAndLeastCommonMultiple.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/gymSuit.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/gymSuit.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/hideCellPhoneNum.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/hideCellPhoneNum.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/idSuggestion.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/idSuggestion.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/insufficient.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/insufficient.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/keypadPress.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/keypadPress.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/knightSWeapon.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/knightSWeapon.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/kthNumber.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/kthNumber.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/lotteryRanking.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/lotteryRanking.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/makeADecimal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/makeADecimal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/makingHamburgers.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/makingHamburgers.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/memoryScore.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/memoryScore.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/middleLetter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/middleLetter.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/minimumRectangle.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/minimumRectangle.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/mockExam.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/mockExam.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/nNumbersSpacedByX.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/nNumbersSpacedByX.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/numStrEn.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/numStrEn.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/numberAndAdditionOfFactors.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/numberAndAdditionOfFactors.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/numberOfArray.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/numberOfArray.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/numberOfCharacters.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/numberOfCharacters.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/numberOfHashes.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/numberOfHashes.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/numberPartner.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/numberPartner.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/personalInformationValidityPeriod.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/personalInformationValidityPeriod.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/personalityTypeCheck.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/personalityTypeCheck.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/placeIntegersInDescendingOrder.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/placeIntegersInDescendingOrder.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/placeStringsInDescendingOrder.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/placeStringsInDescendingOrder.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/pokemon.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/pokemon.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/rectangularStar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/rectangularStar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/removeSmallestNumber.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/removeSmallestNumber.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/roughlyKeyboards.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/roughlyKeyboards.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/runningRace.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/runningRace.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/sameNumber.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/sameNumber.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/secretMap.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/secretMap.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/smallSubstring.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/smallSubstring.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/sortingStringsMyOwnWay.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/sortingStringsMyOwnWay.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/splitString.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/splitString.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/squareRootTest.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/squareRootTest.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/string.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/string.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/stringRepetition.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/stringRepetition.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/sumBetweenTwoIntegers.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/sumBetweenTwoIntegers.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/sumOfFactors.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/sumOfFactors.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/ternaryFlip.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/ternaryFlip.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/theHallOfFame.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/theHallOfFame.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/theNearestSameString.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/theNearestSameString.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/trio.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/trio.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/undefinedNum.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/undefinedNum.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/userReports.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/userReports.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/walkInThePark.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/walkInThePark.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/weirdLetters.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/weirdLetters.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelOne/yearOf2016.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelOne/yearOf2016.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/H-Index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/H-Index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/TwoNTiling.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/TwoNTiling.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/biggestNumber.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/biggestNumber.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/binaryTransformRepeat.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/binaryTransformRepeat.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/camouflage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/camouflage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/carpet.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/carpet.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/cash.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/cash.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/compression.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/compression.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/correctParenthesis.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/correctParenthesis.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/country124Number.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/country124Number.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/createAMinimum.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/createAMinimum.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/cuttingTheRollCake.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/cuttingTheRollCake.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/deliveryAndPickUps.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/deliveryAndPickUps.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/discountEvent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/discountEvent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/eatTheLand.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/eatTheLand.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/emojiDiscount.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/emojiDiscount.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/expectTable.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/expectTable.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/expressedInNumbers.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/expressedInNumbers.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/fatigue.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/fatigue.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/fibonacciSequence.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/fibonacciSequence.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/findDecimals.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/findDecimals.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/findTheNumberOfDecimalsInK.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/findTheNumberOfDecimalsInK.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/finishInEnglish.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/finishInEnglish.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/functionDevelopment.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/functionDevelopment.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/hotelRentals.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/hotelRentals.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/jadenCaseCreateString.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/jadenCaseCreateString.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/joystick.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/joystick.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/jumpAndTeleport.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/jumpAndTeleport.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/leastCommonMultipleOfNCrabs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/leastCommonMultipleOfNCrabs.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/lifeboat.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/lifeboat.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/longJump.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/longJump.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/makingBigNumber.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/makingBigNumber.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/matrixMultiplication.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/matrixMultiplication.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/maxAndMin.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/maxAndMin.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/miningForMinerals.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/miningForMinerals.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/multiplyTheMatrix.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/multiplyTheMatrix.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/nNumberGame.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/nNumberGame.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/newsClustering[1st].jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/newsClustering[1st].jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/nextBigNumber.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/nextBigNumber.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/noMoreThanTwoDifferentBits.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/noMoreThanTwoDifferentBits.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/openChatRoom.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/openChatRoom.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/overPainting.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/overPainting.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/pairToRemove.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/pairToRemove.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/parkingFee.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/parkingFee.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/pickTangerines.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/pickTangerines.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/printer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/printer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/ricochetRobot.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/ricochetRobot.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/rotateParentheses.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/rotateParentheses.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/seqPlusTheNumber.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/seqPlusTheNumber.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/skillTree.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/skillTree.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/sortFileNames.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/sortFileNames.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/stringCompression.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/stringCompression.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/sumOfSequences.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/sumOfSequences.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/targetNumber.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/targetNumber.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/taskProgress.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/taskProgress.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/trimArraysThatAreMultiplesOfN.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/trimArraysThatAreMultiplesOfN.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/truckCrossingTheBridge.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/truckCrossingTheBridge.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/tuple.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/tuple.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/visitLength.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/visitLength.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/programmers/levelTwo/vowelDictionary.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/programmers/levelTwo/vowelDictionary.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +176,11 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitLabMergeRequestsSettings">{}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{}]]></component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="true" />
   </component>
@@ -32,15 +191,16 @@
     <bower-package value="" />
     <bower.json value="" />
   </component>
+  <component name="KubernetesApiProvider"><![CDATA[{}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="NamedScopeManager">
     <scope name="$PROJECT_DIR$" pattern="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="28HSpg4PlX7bdAthCTbed2maoZ1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -65,17 +225,20 @@
     "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
+    "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/iseungjin/Desktop/Projects/JsCodingTest",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
+    "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.standard": "",
+    "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "/Users/leeseungjin/Desktop/Dev_Projects/jscodingtest/node_modules/prettier",
-    "settings.editor.selected.configurable": "actions.on.save",
+    "prettierjs.PrettierConfiguration.Package": "/Users/iseungjin/Desktop/Projects/JsCodingTest/node_modules/prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
     "settings.editor.splitter.proportion": "0.29090908",
     "ts.external.directory.path": "/Users/leeseungjin/Desktop/Dev_Projects/jscodingtest/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
@@ -109,6 +272,14 @@
       <envs />
       <method v="2" />
     </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.158" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.158" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -246,7 +417,10 @@
       <workItem from="1663076151297" duration="7711000" />
       <workItem from="1667561225032" duration="146000" />
       <workItem from="1672858024969" duration="7000" />
-      <workItem from="1696423115737" duration="188000" />
+      <workItem from="1696423115737" duration="1050000" />
+      <workItem from="1698589892816" duration="1000" />
+      <workItem from="1711897417401" duration="22000" />
+      <workItem from="1711897536022" duration="91000" />
     </task>
     <servers />
   </component>
