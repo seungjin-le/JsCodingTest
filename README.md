@@ -83,7 +83,6 @@
   | 76 |      `달리기 경주`       |                [Click](src/components/programmers/levelOne/runningRace.jsx)                 | [Blog](https://velog.io/@dltmdwls15/JS-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8B%AC%EB%A6%AC%EA%B8%B0-%EA%B2%BD%EC%A3%BC) |
   | 77 |       `붕개감기`        |                                  [Click](src/components/programmers/levelOne/Bandage.jsx)                                   | [Blog](https://seungjin-le.github.io/posts/bandage/) |
   | 78 |       `Null`        |                                          [Click]()                                          | [Blog]() |
-  | 79 |       `Null`        |                                          [Click]()                                          | [Blog]() |
 
 
 -----------
